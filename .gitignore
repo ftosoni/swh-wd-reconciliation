@@ -1,0 +1,13 @@
+# Secrets — never commit real tokens
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Heavy intermediates, caches, and logs (regenerable from the public APIs)
+cache/
+*.log
+enriched_*.json

@@ -1,0 +1,80 @@
+{
+  "entityEdits": [
+    {
+      "type": "wbitemeditexpr",
+      "subject": {
+        "type": "wbentityvariable",
+        "columnName": "art_item"
+      },
+      "nameDescs": [],
+      "statementGroups": [
+        {
+          "property": {
+            "type": "wbpropconstant",
+            "pid": "P921",
+            "label": "main subject",
+            "datatype": "wikibase-item"
+          },
+          "statements": [
+            {
+              "value": {
+                "type": "wbentityvariable",
+                "columnName": "sw_item"
+              },
+              "qualifiers": [],
+              "references": [],
+              "mergingStrategy": {
+                "type": "snak",
+                "valueMatcher": {
+                  "type": "lax"
+                }
+              },
+              "mode": "add_or_merge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "wbitemeditexpr",
+      "subject": {
+        "type": "wbentityvariable",
+        "columnName": "sw_item"
+      },
+      "nameDescs": [],
+      "statementGroups": [
+        {
+          "property": {
+            "type": "wbpropconstant",
+            "pid": "P1343",
+            "label": "described by source",
+            "datatype": "wikibase-item"
+          },
+          "statements": [
+            {
+              "value": {
+                "type": "wbentityvariable",
+                "columnName": "art_item"
+              },
+              "qualifiers": [],
+              "references": [],
+              "mergingStrategy": {
+                "type": "snak",
+                "valueMatcher": {
+                  "type": "lax"
+                }
+              },
+              "mode": "add_or_merge"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "siteIri": "http://www.wikidata.org/entity/",
+  "entityTypeSiteIRI": {
+    "item": "http://www.wikidata.org/entity/",
+    "property": "http://www.wikidata.org/entity/"
+  },
+  "mediaWikiApiEndpoint": "https://www.wikidata.org/w/api.php"
+}

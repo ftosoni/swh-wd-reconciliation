@@ -1,0 +1,282 @@
+{
+  "entityEdits": [
+    {
+      "type": "wbitemeditexpr",
+      "subject": {
+        "type": "wbentityvariable",
+        "columnName": "sw_item"
+      },
+      "nameDescs": [
+        {
+          "name_type": "LABEL_IF_NEW",
+          "value": {
+            "type": "wbmonolingualexpr",
+            "language": {
+              "type": "wblanguageconstant",
+              "id": "en",
+              "label": "en"
+            },
+            "value": {
+              "type": "wbstringvariable",
+              "columnName": "software_label_from_repo"
+            }
+          }
+        },
+        {
+          "name_type": "ALIAS",
+          "value": {
+            "type": "wbmonolingualexpr",
+            "language": {
+              "type": "wblanguageconstant",
+              "id": "en",
+              "label": "en"
+            },
+            "value": {
+              "type": "wbstringvariable",
+              "columnName": "software_label_from_title"
+            }
+          }
+        },
+        {
+          "name_type": "DESCRIPTION_IF_NEW",
+          "value": {
+            "type": "wbmonolingualexpr",
+            "language": {
+              "type": "wblanguageconstant",
+              "id": "en",
+              "label": "en"
+            },
+            "value": {
+              "type": "wbstringvariable",
+              "columnName": "software_desc"
+            }
+          }
+        }
+      ],
+      "statementGroups": [
+        {
+          "property": {
+            "type": "wbpropconstant",
+            "pid": "P31",
+            "label": "instance of",
+            "datatype": "wikibase-item"
+          },
+          "statements": [
+            {
+              "value": {
+                "type": "wbentityidvalueconstant",
+                "id": "Q7397",
+                "label": "software"
+              },
+              "qualifiers": [],
+              "references": [
+                {
+                  "snaks": [
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P248",
+                        "label": "stated in",
+                        "datatype": "wikibase-item"
+                      },
+                      "value": {
+                        "type": "wbentityidvalueconstant",
+                        "id": "Q50817797",
+                        "label": "Journal of Open Source Software"
+                      }
+                    },
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P854",
+                        "label": "reference URL",
+                        "datatype": "url"
+                      },
+                      "value": {
+                        "type": "wbstringvariable",
+                        "columnName": "repo_ref_url_P854"
+                      }
+                    },
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P813",
+                        "label": "retrieved",
+                        "datatype": "time"
+                      },
+                      "value": {
+                        "type": "wbdateconstant",
+                        "value": "2026-06-18"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "mergingStrategy": {
+                "type": "snak",
+                "valueMatcher": {
+                  "type": "lax"
+                }
+              },
+              "mode": "add_or_merge"
+            }
+          ]
+        },
+        {
+          "property": {
+            "type": "wbpropconstant",
+            "pid": "P1324",
+            "label": "source code repository URL",
+            "datatype": "url"
+          },
+          "statements": [
+            {
+              "value": {
+                "type": "wbstringvariable",
+                "columnName": "repo_url_P1324"
+              },
+              "qualifiers": [
+                {
+                  "prop": {
+                    "type": "wbpropconstant",
+                    "pid": "P8423",
+                    "label": "version control system",
+                    "datatype": "wikibase-item"
+                  },
+                  "value": {
+                    "type": "wbentityidvalueconstant",
+                    "id": "Q186055",
+                    "label": "Git"
+                  }
+                },
+                {
+                  "prop": {
+                    "type": "wbpropconstant",
+                    "pid": "P10627",
+                    "label": "web interface software",
+                    "datatype": "wikibase-item"
+                  },
+                  "value": {
+                    "type": "wbentityvariable",
+                    "columnName": "web_interface_qid"
+                  }
+                }
+              ],
+              "references": [
+                {
+                  "snaks": [
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P248",
+                        "label": "stated in",
+                        "datatype": "wikibase-item"
+                      },
+                      "value": {
+                        "type": "wbentityidvalueconstant",
+                        "id": "Q50817797",
+                        "label": "Journal of Open Source Software"
+                      }
+                    },
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P854",
+                        "label": "reference URL",
+                        "datatype": "url"
+                      },
+                      "value": {
+                        "type": "wbstringvariable",
+                        "columnName": "repo_ref_url_P854"
+                      }
+                    },
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P813",
+                        "label": "retrieved",
+                        "datatype": "time"
+                      },
+                      "value": {
+                        "type": "wbdateconstant",
+                        "value": "2026-06-18"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "mergingStrategy": {
+                "type": "snak",
+                "valueMatcher": {
+                  "type": "lax"
+                }
+              },
+              "mode": "add_or_merge"
+            }
+          ]
+        },
+        {
+          "property": {
+            "type": "wbpropconstant",
+            "pid": "P6138",
+            "label": "Software Heritage ID",
+            "datatype": "external-id"
+          },
+          "statements": [
+            {
+              "value": {
+                "type": "wbstringvariable",
+                "columnName": "swhid_P6138"
+              },
+              "qualifiers": [],
+              "references": [
+                {
+                  "snaks": [
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P248",
+                        "label": "stated in",
+                        "datatype": "wikibase-item"
+                      },
+                      "value": {
+                        "type": "wbentityidvalueconstant",
+                        "id": "Q28127082",
+                        "label": "Software Heritage"
+                      }
+                    },
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P813",
+                        "label": "retrieved",
+                        "datatype": "time"
+                      },
+                      "value": {
+                        "type": "wbdateconstant",
+                        "value": "2026-06-18"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "mergingStrategy": {
+                "type": "snak",
+                "valueMatcher": {
+                  "type": "lax"
+                }
+              },
+              "mode": "add_or_merge"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "siteIri": "http://www.wikidata.org/entity/",
+  "entityTypeSiteIRI": {
+    "item": "http://www.wikidata.org/entity/",
+    "property": "http://www.wikidata.org/entity/"
+  },
+  "mediaWikiApiEndpoint": "https://www.wikidata.org/w/api.php"
+}

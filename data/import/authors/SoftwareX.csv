@@ -1,0 +1,1859 @@
+﻿article_doi,venue,series_ordinal_P1545,author_name_P2093
+10.1016/j.softx.2015.03.001,SoftwareX,1,Andre Merzky
+10.1016/j.softx.2015.03.001,SoftwareX,2,Ole Weidner
+10.1016/j.softx.2015.03.001,SoftwareX,3,Shantenu Jha
+10.1016/j.softx.2015.04.001,SoftwareX,1,Marcus D. Hanwell
+10.1016/j.softx.2015.04.001,SoftwareX,2,Kenneth M. Martin
+10.1016/j.softx.2015.04.001,SoftwareX,3,Aashish Chaudhary
+10.1016/j.softx.2015.04.001,SoftwareX,4,Lisa S. Avila
+10.1016/j.softx.2015.09.001,SoftwareX,1,S. Youssefi
+10.1016/j.softx.2015.09.001,SoftwareX,2,S. Denei
+10.1016/j.softx.2015.09.001,SoftwareX,3,F. Mastrogiovanni
+10.1016/j.softx.2015.09.001,SoftwareX,4,G. Cannata
+10.1016/j.softx.2015.10.001,SoftwareX,1,Spencer J. Ingley
+10.1016/j.softx.2015.10.001,SoftwareX,2,Mohammad Rahmani Asl
+10.1016/j.softx.2015.10.001,SoftwareX,3,Chengde Wu
+10.1016/j.softx.2015.10.001,SoftwareX,4,Rongfeng Cui
+10.1016/j.softx.2015.10.001,SoftwareX,5,Mahmoud Gadelhak
+10.1016/j.softx.2015.10.001,SoftwareX,6,Wen Li
+10.1016/j.softx.2015.10.001,SoftwareX,7,Ji Zhang
+10.1016/j.softx.2015.10.001,SoftwareX,8,Jon Simpson
+10.1016/j.softx.2015.10.001,SoftwareX,9,Chelsea Hash
+10.1016/j.softx.2015.10.001,SoftwareX,10,Trisha Butkowski
+10.1016/j.softx.2015.10.001,SoftwareX,11,Thor Veen
+10.1016/j.softx.2015.10.001,SoftwareX,12,Jerald B. Johnson
+10.1016/j.softx.2015.10.001,SoftwareX,13,Wei Yan
+10.1016/j.softx.2015.10.001,SoftwareX,14,Gil G. Rosenthal
+10.1016/j.softx.2015.10.003,SoftwareX,1,Shaowen Wang
+10.1016/j.softx.2015.10.003,SoftwareX,2,Yan Liu
+10.1016/j.softx.2015.10.003,SoftwareX,3,Anand Padmanabhan
+10.1016/j.softx.2015.11.001,SoftwareX,1,Ru Zhu
+10.1016/j.softx.2016.01.001,SoftwareX,1,Álvaro López García
+10.1016/j.softx.2016.01.001,SoftwareX,2,Enol Fernández del Castillo
+10.1016/j.softx.2016.01.001,SoftwareX,3,Pablo Orviz Fernández
+10.1016/j.softx.2016.02.001,SoftwareX,1,Simon Kiesewetter
+10.1016/j.softx.2016.02.001,SoftwareX,2,Rodney Polkinghorne
+10.1016/j.softx.2016.02.001,SoftwareX,3,Bogdan Opanchuk
+10.1016/j.softx.2016.02.001,SoftwareX,4,Peter D. Drummond
+10.1016/j.softx.2016.01.002,SoftwareX,1,Elisabeth Schold Linnér
+10.1016/j.softx.2016.01.002,SoftwareX,2,Max Morén
+10.1016/j.softx.2016.01.002,SoftwareX,3,Karl-Oskar Smed
+10.1016/j.softx.2016.01.002,SoftwareX,4,Johan Nysjö
+10.1016/j.softx.2016.01.002,SoftwareX,5,Robin Strand
+10.1016/j.softx.2016.04.001,SoftwareX,1,Michael Ruby
+10.1016/j.softx.2016.04.007,SoftwareX,1,F. Pina-Martins
+10.1016/j.softx.2016.04.007,SoftwareX,2,O.S. Paulo
+10.1016/j.softx.2016.05.001,SoftwareX,1,L. Vanfretti
+10.1016/j.softx.2016.05.001,SoftwareX,2,T. Rabuzin
+10.1016/j.softx.2016.05.001,SoftwareX,3,M. Baudette
+10.1016/j.softx.2016.05.001,SoftwareX,4,M. Murad
+10.1016/j.softx.2016.05.002,SoftwareX,1,P. Degenne
+10.1016/j.softx.2016.05.002,SoftwareX,2,D. Lo Seen
+10.1016/j.softx.2016.05.005,SoftwareX,1,R.O. Ocaya
+10.1016/j.softx.2016.05.005,SoftwareX,2,J.J. Terblans
+10.1016/j.softx.2016.05.004,SoftwareX,1,Jeffrey Bolan
+10.1016/j.softx.2016.05.004,SoftwareX,2,Elise Hall
+10.1016/j.softx.2016.05.004,SoftwareX,3,Chris Clifford
+10.1016/j.softx.2016.05.004,SoftwareX,4,Brian Thurow
+10.1016/j.softx.2016.07.002,SoftwareX,1,Marios Fragkoulis
+10.1016/j.softx.2016.07.002,SoftwareX,2,Diomidis Spinellis
+10.1016/j.softx.2016.07.002,SoftwareX,3,Panos Louridas
+10.1016/j.softx.2016.07.004,SoftwareX,1,Luigi Vanfretti
+10.1016/j.softx.2016.07.004,SoftwareX,2,Maxime Baudette
+10.1016/j.softx.2016.07.004,SoftwareX,3,Achour Amazouz
+10.1016/j.softx.2016.07.004,SoftwareX,4,Tetiana Bogodorova
+10.1016/j.softx.2016.07.004,SoftwareX,5,Tin Rabuzin
+10.1016/j.softx.2016.07.004,SoftwareX,6,Jan Lavenius
+10.1016/j.softx.2016.07.004,SoftwareX,7,Francisco José Goméz-López
+10.1016/j.softx.2016.08.002,SoftwareX,1,Balázs Zsigmond Horváth
+10.1016/j.softx.2016.08.002,SoftwareX,2,Bence Blaske
+10.1016/j.softx.2016.08.002,SoftwareX,3,Anita Szabó
+10.1016/j.softx.2017.01.002,SoftwareX,1,Jean Pierre Charalambos
+10.1016/j.softx.2017.12.004,SoftwareX,1,Garrett W. Melenka
+10.1016/j.softx.2017.12.004,SoftwareX,2,Jason P. Carey
+10.1016/j.softx.2017.08.001,SoftwareX,1,Olga Popova
+10.1016/j.softx.2017.08.001,SoftwareX,2,Boris Popov
+10.1016/j.softx.2017.08.001,SoftwareX,3,Dmitry Romanov
+10.1016/j.softx.2017.08.001,SoftwareX,4,Marina Evseeva
+10.1016/j.softx.2018.04.001,SoftwareX,1,Timofey Mukha
+10.1016/j.softx.2018.04.001,SoftwareX,2,Mattias Liefvendahl
+10.1016/j.softx.2016.12.002,SoftwareX,1,Michael E. Fortunato
+10.1016/j.softx.2016.12.002,SoftwareX,2,Coray M. Colina
+10.1016/j.softx.2016.11.001,SoftwareX,1,Ian H. Williams
+10.1016/j.softx.2016.11.001,SoftwareX,2,Philippe B. Wilson
+10.1016/j.softx.2018.04.003,SoftwareX,1,Jack McCubbine
+10.1016/j.softx.2018.04.003,SoftwareX,2,Fabio Caratori Tontini
+10.1016/j.softx.2018.04.003,SoftwareX,3,Vaughan Stagpoole
+10.1016/j.softx.2018.04.003,SoftwareX,4,Euan Smith
+10.1016/j.softx.2018.04.003,SoftwareX,5,Grant O’Brien
+10.1016/j.softx.2018.05.004,SoftwareX,1,Yakubu Abdul-Salam
+10.1016/j.softx.2017.07.004,SoftwareX,1,M. Imgrund
+10.1016/j.softx.2017.07.004,SoftwareX,2,A. Arth
+10.1016/j.softx.2017.06.005,SoftwareX,1,Daniele De Sensi
+10.1016/j.softx.2017.06.005,SoftwareX,2,Massimo Torquati
+10.1016/j.softx.2017.06.005,SoftwareX,3,Marco Danelutto
+10.1016/j.softx.2016.10.001,SoftwareX,1,Sheng-Cheng Huang
+10.1016/j.softx.2016.10.001,SoftwareX,2,Sara Lee
+10.1016/j.softx.2016.10.001,SoftwareX,3,Allen Wang
+10.1016/j.softx.2016.10.001,SoftwareX,4,Scott B. Cantor
+10.1016/j.softx.2016.10.001,SoftwareX,5,Clement Sun
+10.1016/j.softx.2016.10.001,SoftwareX,6,Kaili Fan
+10.1016/j.softx.2016.10.001,SoftwareX,7,Gregory P. Reece
+10.1016/j.softx.2016.10.001,SoftwareX,8,Min Soon Kim
+10.1016/j.softx.2016.10.001,SoftwareX,9,Mia K. Markey
+10.1016/j.softx.2016.10.002,SoftwareX,1,Mahdi Nabil
+10.1016/j.softx.2016.10.002,SoftwareX,2,Alexander S. Rattner
+10.1016/j.softx.2016.07.006,SoftwareX,1,Mario Mulansky
+10.1016/j.softx.2016.07.006,SoftwareX,2,Thomas Kreuz
+10.1016/j.softx.2016.08.001,SoftwareX,1,G. Pereira
+10.1016/j.softx.2016.08.001,SoftwareX,2,M. McGugan
+10.1016/j.softx.2016.08.001,SoftwareX,3,L.P. Mikkelsen
+10.1016/j.softx.2016.09.001,SoftwareX,1,Chenhui Liu
+10.1016/j.softx.2016.09.001,SoftwareX,2,Anuj Sharma
+10.1016/j.softx.2016.09.001,SoftwareX,3,Edward Smaglik
+10.1016/j.softx.2016.09.001,SoftwareX,4,Sirisha Kothuri
+10.1016/j.softx.2017.04.004,SoftwareX,1,Salim Khalil
+10.1016/j.softx.2017.04.004,SoftwareX,2,Mohamed Fakir
+10.1016/j.softx.2017.02.001,SoftwareX,1,Jan M. Binder
+10.1016/j.softx.2017.02.001,SoftwareX,2,Alexander Stark
+10.1016/j.softx.2017.02.001,SoftwareX,3,Nikolas Tomek
+10.1016/j.softx.2017.02.001,SoftwareX,4,Jochen Scheuer
+10.1016/j.softx.2017.02.001,SoftwareX,5,Florian Frank
+10.1016/j.softx.2017.02.001,SoftwareX,6,Kay D. Jahnke
+10.1016/j.softx.2017.02.001,SoftwareX,7,Christoph Müller
+10.1016/j.softx.2017.02.001,SoftwareX,8,Simon Schmitt
+10.1016/j.softx.2017.02.001,SoftwareX,9,Mathias H. Metsch
+10.1016/j.softx.2017.02.001,SoftwareX,10,Thomas Unden
+10.1016/j.softx.2017.02.001,SoftwareX,11,Tobias Gehring
+10.1016/j.softx.2017.02.001,SoftwareX,12,Alexander Huck
+10.1016/j.softx.2017.02.001,SoftwareX,13,Ulrik L. Andersen
+10.1016/j.softx.2017.02.001,SoftwareX,14,Lachlan J. Rogers
+10.1016/j.softx.2017.02.001,SoftwareX,15,Fedor Jelezko
+10.1016/j.softx.2017.08.007,SoftwareX,1,Daniel R. Aldrich
+10.1016/j.softx.2017.08.007,SoftwareX,2,Cagri Ayranci
+10.1016/j.softx.2017.08.007,SoftwareX,3,David S. Nobes
+10.1016/j.softx.2017.11.003,SoftwareX,1,Çağatay Yıldız
+10.1016/j.softx.2017.11.003,SoftwareX,2,Barış Kurt
+10.1016/j.softx.2017.11.003,SoftwareX,3,Taha Yusuf Ceritli
+10.1016/j.softx.2017.11.003,SoftwareX,4,Bülent Sankur
+10.1016/j.softx.2017.11.003,SoftwareX,5,Ali Taylan Cemgil
+10.1016/j.softx.2017.10.008,SoftwareX,1,K. Kraljić
+10.1016/j.softx.2017.10.008,SoftwareX,2,L. Strüngmann
+10.1016/j.softx.2017.10.008,SoftwareX,3,E. Fimmel
+10.1016/j.softx.2017.10.008,SoftwareX,4,M. Gumbel
+10.1016/j.softx.2016.10.005,SoftwareX,1,Florian Schumacher
+10.1016/j.softx.2016.10.005,SoftwareX,2,Wolfgang Friederich
+10.1016/j.softx.2016.10.004,SoftwareX,1,Mohammad AlHamaydeh
+10.1016/j.softx.2016.10.004,SoftwareX,2,Mohamad Najib
+10.1016/j.softx.2016.10.004,SoftwareX,3,Sameer Alawnah
+10.1016/j.softx.2016.08.005,SoftwareX,1,T. Salles
+10.1016/j.softx.2018.05.005,SoftwareX,1,Samantha Zambo
+10.1016/j.softx.2018.05.005,SoftwareX,2,Todd Holland
+10.1016/j.softx.2018.05.005,SoftwareX,3,Nathaniel Plant
+10.1016/j.softx.2018.05.005,SoftwareX,4,Kevin Duvieilh
+10.1016/j.softx.2018.05.005,SoftwareX,5,Paul Elmore
+10.1016/j.softx.2018.05.005,SoftwareX,6,Will Avera
+10.1016/j.softx.2018.05.005,SoftwareX,7,Brian Bourgeois
+10.1016/j.softx.2018.05.005,SoftwareX,8,A. Louise Perkins
+10.1016/j.softx.2018.05.005,SoftwareX,9,David Lalejini
+10.1016/j.softx.2017.09.005,SoftwareX,1,Fatih Nar
+10.1016/j.softx.2017.09.005,SoftwareX,2,Osman Erman Okman
+10.1016/j.softx.2017.09.005,SoftwareX,3,Atilla Özgür
+10.1016/j.softx.2017.09.005,SoftwareX,4,Müjdat Çetin
+10.1016/j.softx.2017.05.002,SoftwareX,1,Matteo Ragni
+10.1016/j.softx.2017.09.002,SoftwareX,1,Serge Dmitrieff
+10.1016/j.softx.2017.09.002,SoftwareX,2,François Nédélec
+10.1016/j.softx.2018.08.003,SoftwareX,1,L. Vanfretti
+10.1016/j.softx.2018.08.003,SoftwareX,2,G.M. Jónsdóttir
+10.1016/j.softx.2018.08.003,SoftwareX,3,M.S. Almas
+10.1016/j.softx.2018.08.003,SoftwareX,4,E. Rebello
+10.1016/j.softx.2018.08.003,SoftwareX,5,S.R. Firouzi
+10.1016/j.softx.2018.08.003,SoftwareX,6,M. Baudette
+10.1016/j.softx.2017.12.006,SoftwareX,1,Brian Ballsun-Stanton
+10.1016/j.softx.2017.12.006,SoftwareX,2,Shawn A. Ross
+10.1016/j.softx.2017.12.006,SoftwareX,3,Adela Sobotkova
+10.1016/j.softx.2017.12.006,SoftwareX,4,Penny Crook
+10.1016/j.softx.2017.07.007,SoftwareX,1,Athanassios M. Kintsakis
+10.1016/j.softx.2017.07.007,SoftwareX,2,Fotis E. Psomopoulos
+10.1016/j.softx.2017.07.007,SoftwareX,3,Andreas L. Symeonidis
+10.1016/j.softx.2017.07.007,SoftwareX,4,Pericles A. Mitkas
+10.1016/j.softx.2017.02.002,SoftwareX,1,Yann Marcon
+10.1016/j.softx.2017.02.002,SoftwareX,2,Autun Purser
+10.1016/j.softx.2016.12.006,SoftwareX,1,Miguel Pato
+10.1016/j.softx.2016.12.006,SoftwareX,2,Fabio Iocco
+10.1016/j.softx.2017.01.001,SoftwareX,1,M. Subbiah
+10.1016/j.softx.2017.01.001,SoftwareX,2,V. Rajeswaran
+10.1016/j.softx.2016.12.004,SoftwareX,1,Peter A. Predein
+10.1016/j.softx.2016.12.004,SoftwareX,2,Anna A. Dobrynina
+10.1016/j.softx.2016.12.004,SoftwareX,3,Tsyren A. Tubanov
+10.1016/j.softx.2016.12.004,SoftwareX,4,Eugeny I. German
+10.1016/j.softx.2017.06.007,SoftwareX,1,Olivier L. Georgeon
+10.1016/j.softx.2017.07.002,SoftwareX,1,Martin Robinson
+10.1016/j.softx.2017.07.002,SoftwareX,2,Maria Bruna
+10.1016/j.softx.2017.07.005,SoftwareX,1,Marcelo S. Reis
+10.1016/j.softx.2017.07.005,SoftwareX,2,Gustavo Estrela
+10.1016/j.softx.2017.07.005,SoftwareX,3,Carlos Eduardo Ferreira
+10.1016/j.softx.2017.07.005,SoftwareX,4,Junior Barrera
+10.1016/j.softx.2017.05.001,SoftwareX,1,Martin Haustein
+10.1016/j.softx.2017.05.001,SoftwareX,2,Anton Gladkyy
+10.1016/j.softx.2017.05.001,SoftwareX,3,Rüdiger Schwarze
+10.1016/j.softx.2017.04.005,SoftwareX,1,Raffaele Albano
+10.1016/j.softx.2017.04.005,SoftwareX,2,Salvatore Manfreda
+10.1016/j.softx.2017.04.005,SoftwareX,3,Giuseppe Celano
+10.1016/j.softx.2017.06.002,SoftwareX,1,Tobias Weber
+10.1016/j.softx.2017.07.001,SoftwareX,1,Janaki Shanmugam
+10.1016/j.softx.2017.07.001,SoftwareX,2,Konstantin B. Borisenko
+10.1016/j.softx.2017.07.001,SoftwareX,3,Yu-Jen Chou
+10.1016/j.softx.2017.07.001,SoftwareX,4,Angus I. Kirkland
+10.1016/j.softx.2017.07.006,SoftwareX,1,Jhonatha R. dos Santos
+10.1016/j.softx.2017.07.006,SoftwareX,2,Luiz F.N. Barreta
+10.1016/j.softx.2017.07.006,SoftwareX,3,Maria E. Sbampato
+10.1016/j.softx.2017.07.006,SoftwareX,4,Marcelo G. Destro
+10.1016/j.softx.2017.08.002,SoftwareX,1,M.S. Almas
+10.1016/j.softx.2017.08.002,SoftwareX,2,L. Vanfretti
+10.1016/j.softx.2017.08.002,SoftwareX,3,M. Baudette
+10.1016/j.softx.2017.08.003,SoftwareX,1,Boualem Boashash
+10.1016/j.softx.2017.08.003,SoftwareX,2,Samir Ouelha
+10.1016/j.softx.2017.08.005,SoftwareX,1,D. Bykhovsky
+10.1016/j.softx.2017.08.004,SoftwareX,1,Juan Rafael Orozco-Arroyave
+10.1016/j.softx.2017.08.004,SoftwareX,2,Juan Camilo Vásquez-Correa
+10.1016/j.softx.2017.08.004,SoftwareX,3,Jesús Francisco Vargas-Bonilla
+10.1016/j.softx.2017.08.004,SoftwareX,4,R. Arora
+10.1016/j.softx.2017.08.004,SoftwareX,5,N. Dehak
+10.1016/j.softx.2017.08.004,SoftwareX,6,P.S. Nidadavolu
+10.1016/j.softx.2017.08.004,SoftwareX,7,H. Christensen
+10.1016/j.softx.2017.08.004,SoftwareX,8,F. Rudzicz
+10.1016/j.softx.2017.08.004,SoftwareX,9,M. Yancheva
+10.1016/j.softx.2017.08.004,SoftwareX,10,H. Chinaei
+10.1016/j.softx.2017.08.004,SoftwareX,11,A. Vann
+10.1016/j.softx.2017.08.004,SoftwareX,12,N. Vogler
+10.1016/j.softx.2017.08.004,SoftwareX,13,T. Bocklet
+10.1016/j.softx.2017.08.004,SoftwareX,14,M. Cernak
+10.1016/j.softx.2017.08.004,SoftwareX,15,J. Hannink
+10.1016/j.softx.2017.08.004,SoftwareX,16,Elmar Nöth
+10.1016/j.softx.2017.09.006,SoftwareX,1,Marco Stocchi
+10.1016/j.softx.2017.09.006,SoftwareX,2,Michele Marchesi
+10.1016/j.softx.2017.04.003,SoftwareX,1,Turaj Ashuri
+10.1016/j.softx.2017.04.003,SoftwareX,2,Jie Zhang
+10.1016/j.softx.2017.10.003,SoftwareX,1,Ken Soderstrom
+10.1016/j.softx.2017.10.003,SoftwareX,2,Ali Alalawi
+10.1016/j.softx.2017.10.006,SoftwareX,1,Ravishankar Sundararaman
+10.1016/j.softx.2017.10.006,SoftwareX,2,Kendra Letchworth-Weaver
+10.1016/j.softx.2017.10.006,SoftwareX,3,Kathleen A. Schwarz
+10.1016/j.softx.2017.10.006,SoftwareX,4,Deniz Gunceler
+10.1016/j.softx.2017.10.006,SoftwareX,5,Yalcin Ozhabes
+10.1016/j.softx.2017.10.006,SoftwareX,6,T.A. Arias
+10.1016/j.softx.2017.11.006,SoftwareX,1,Dogac Basaran
+10.1016/j.softx.2017.11.006,SoftwareX,2,Ali Taylan Cemgil
+10.1016/j.softx.2017.11.006,SoftwareX,3,Emin Anarim
+10.1016/j.softx.2017.11.007,SoftwareX,1,Onur Yorulmaz
+10.1016/j.softx.2017.11.007,SoftwareX,2,A. Enis Cetin
+10.1016/j.softx.2017.12.003,SoftwareX,1,Emre Cimen
+10.1016/j.softx.2017.12.003,SoftwareX,2,Gurkan Ozturk
+10.1016/j.softx.2017.12.003,SoftwareX,3,Omer Nezih Gerek
+10.1016/j.softx.2017.12.005,SoftwareX,1,Pawel Kasprowski
+10.1016/j.softx.2017.12.005,SoftwareX,2,Katarzyna Harezlak
+10.1016/j.softx.2017.12.002,SoftwareX,1,Boualem Boashash
+10.1016/j.softx.2017.12.002,SoftwareX,2,Abdeldjalil Aïssa-El-Bey
+10.1016/j.softx.2017.12.002,SoftwareX,3,Mohammad F. Al-Sa’d
+10.1016/j.softx.2017.12.001,SoftwareX,1,Paul Bauer
+10.1016/j.softx.2017.12.001,SoftwareX,2,Alexandre Barrozo
+10.1016/j.softx.2017.12.001,SoftwareX,3,Miha Purg
+10.1016/j.softx.2017.12.001,SoftwareX,4,Beat Anton Amrein
+10.1016/j.softx.2017.12.001,SoftwareX,5,Mauricio Esguerra
+10.1016/j.softx.2017.12.001,SoftwareX,6,Philippe Barrie Wilson
+10.1016/j.softx.2017.12.001,SoftwareX,7,Dan Thomas Major
+10.1016/j.softx.2017.12.001,SoftwareX,8,Johan Åqvist
+10.1016/j.softx.2017.12.001,SoftwareX,9,Shina Caroline Lynn Kamerlin
+10.1016/j.softx.2017.04.001,SoftwareX,1,D. Ranathunga
+10.1016/j.softx.2017.04.001,SoftwareX,2,H. Nguyen
+10.1016/j.softx.2017.04.001,SoftwareX,3,M. Roughan
+10.1016/j.softx.2018.01.003,SoftwareX,1,Jan Scheffel
+10.1016/j.softx.2018.01.003,SoftwareX,2,Kristoffer Lindvall
+10.1016/j.softx.2017.10.004,SoftwareX,1,Harry Zekollari
+10.1016/j.softx.2017.10.009,SoftwareX,1,Minjie Zhu
+10.1016/j.softx.2017.10.009,SoftwareX,2,Frank McKenna
+10.1016/j.softx.2017.10.009,SoftwareX,3,Michael H. Scott
+10.1016/j.softx.2018.02.001,SoftwareX,1,Jason Laura
+10.1016/j.softx.2018.02.001,SoftwareX,2,Kelvin Rodriguez
+10.1016/j.softx.2018.02.001,SoftwareX,3,Adam C. Paquette
+10.1016/j.softx.2018.02.001,SoftwareX,4,Evin Dunn
+10.1016/j.softx.2018.02.002,SoftwareX,1,Peter G. Lelièvre
+10.1016/j.softx.2018.02.002,SoftwareX,2,Angela E. Carter-McAuslan
+10.1016/j.softx.2018.02.002,SoftwareX,3,Michael W. Dunham
+10.1016/j.softx.2018.02.002,SoftwareX,4,Drew J. Jones
+10.1016/j.softx.2018.02.002,SoftwareX,5,Mariella Nalepa
+10.1016/j.softx.2018.02.002,SoftwareX,6,Chelsea L. Squires
+10.1016/j.softx.2018.02.002,SoftwareX,7,Cassandra J. Tycholiz
+10.1016/j.softx.2018.02.002,SoftwareX,8,Marc A. Vallée
+10.1016/j.softx.2018.02.002,SoftwareX,9,Colin G. Farquharson
+10.1016/j.softx.2018.02.003,SoftwareX,1,Martin Mann
+10.1016/j.softx.2018.02.003,SoftwareX,2,Hans-Peter Kahle
+10.1016/j.softx.2018.02.003,SoftwareX,3,Matthias Beck
+10.1016/j.softx.2018.02.003,SoftwareX,4,Bela Johannes Bender
+10.1016/j.softx.2018.02.003,SoftwareX,5,Heinrich Spiecker
+10.1016/j.softx.2018.02.003,SoftwareX,6,Rolf Backofen
+10.1016/j.softx.2018.02.004,SoftwareX,1,Adrian R.G. Harwood
+10.1016/j.softx.2018.02.004,SoftwareX,2,Joseph O’Connor
+10.1016/j.softx.2018.02.004,SoftwareX,3,Jonathan Sanchez Muñoz
+10.1016/j.softx.2018.02.004,SoftwareX,4,Marta Camps Santasmasas
+10.1016/j.softx.2018.02.004,SoftwareX,5,Alistair J. Revell
+10.1016/j.softx.2018.03.003,SoftwareX,1,Md Mushfiqur Rahman
+10.1016/j.softx.2018.03.003,SoftwareX,2,Yu Lei
+10.1016/j.softx.2018.03.003,SoftwareX,3,Georgios Kalantzis
+10.1016/j.softx.2018.03.006,SoftwareX,1,S. Cherubin
+10.1016/j.softx.2018.03.006,SoftwareX,2,G. Agosta
+10.1016/j.softx.2018.04.002,SoftwareX,1,Danny Petschke
+10.1016/j.softx.2018.04.002,SoftwareX,2,Torsten E.M. Staab
+10.1016/j.softx.2018.04.006,SoftwareX,1,Suleiman Y. Yerima
+10.1016/j.softx.2018.04.006,SoftwareX,2,Michael Loughlin
+10.1016/j.softx.2018.04.006,SoftwareX,3,Sakir Sezer
+10.1016/j.softx.2018.04.006,SoftwareX,4,John Moriarty
+10.1016/j.softx.2018.04.006,SoftwareX,5,Mark McCann
+10.1016/j.softx.2018.04.006,SoftwareX,6,Helen McAneney
+10.1016/j.softx.2018.04.006,SoftwareX,7,Leeanne O’Hara
+10.1016/j.softx.2018.04.006,SoftwareX,8,Mark A. Tully
+10.1016/j.softx.2018.04.006,SoftwareX,9,Paul S. Ell
+10.1016/j.softx.2018.04.006,SoftwareX,10,Robert Miller
+10.1016/j.softx.2018.04.006,SoftwareX,11,Geraldine Macdonald
+10.1016/j.softx.2018.04.004,SoftwareX,1,Andreas Henelius
+10.1016/j.softx.2018.04.004,SoftwareX,2,Jari Torniainen
+10.1016/j.softx.2018.05.003,SoftwareX,1,Daniil Kazantsev
+10.1016/j.softx.2018.05.003,SoftwareX,2,Valery Pickalov
+10.1016/j.softx.2018.05.003,SoftwareX,3,Srikanth Nagella
+10.1016/j.softx.2018.05.003,SoftwareX,4,Edoardo Pasca
+10.1016/j.softx.2018.05.003,SoftwareX,5,Philip J. Withers
+10.1016/j.softx.2018.04.005,SoftwareX,1,Kamyar Hasanzadeh
+10.1016/j.softx.2018.02.005,SoftwareX,1,A.G. Basden
+10.1016/j.softx.2018.02.005,SoftwareX,2,N.A. Bharmal
+10.1016/j.softx.2018.02.005,SoftwareX,3,D. Jenkins
+10.1016/j.softx.2018.02.005,SoftwareX,4,T.J. Morris
+10.1016/j.softx.2018.02.005,SoftwareX,5,J. Osborn
+10.1016/j.softx.2018.02.005,SoftwareX,6,J. Peng
+10.1016/j.softx.2018.02.005,SoftwareX,7,L. Staykov
+10.1016/j.softx.2018.07.004,SoftwareX,1,Jay Jay Billings
+10.1016/j.softx.2018.07.004,SoftwareX,2,Andrew R. Bennett
+10.1016/j.softx.2018.07.004,SoftwareX,3,Jordan Deyton
+10.1016/j.softx.2018.07.004,SoftwareX,4,Kasper Gammeltoft
+10.1016/j.softx.2018.07.004,SoftwareX,5,Jonah Graham
+10.1016/j.softx.2018.07.004,SoftwareX,6,Dasha Gorin
+10.1016/j.softx.2018.07.004,SoftwareX,7,Hari Krishnan
+10.1016/j.softx.2018.07.004,SoftwareX,8,Menghan Li
+10.1016/j.softx.2018.07.004,SoftwareX,9,Alexander J. McCaskey
+10.1016/j.softx.2018.07.004,SoftwareX,10,Taylor Patterson
+10.1016/j.softx.2018.07.004,SoftwareX,11,Robert Smith
+10.1016/j.softx.2018.07.004,SoftwareX,12,Gregory R. Watson
+10.1016/j.softx.2018.07.004,SoftwareX,13,Anna Wojtowicz
+10.1016/j.softx.2018.07.005,SoftwareX,1,Rakib Hassan
+10.1016/j.softx.2018.07.005,SoftwareX,2,Michael Gurnis
+10.1016/j.softx.2018.07.005,SoftwareX,3,Simon E. Williams
+10.1016/j.softx.2018.07.005,SoftwareX,4,R. Dietmar Müller
+10.1016/j.softx.2018.07.002,SoftwareX,1,Christiaan H. Righolt
+10.1016/j.softx.2018.07.002,SoftwareX,2,Barret A. Monchka
+10.1016/j.softx.2018.07.002,SoftwareX,3,Salaheddin M. Mahmud
+10.1016/j.softx.2018.07.006,SoftwareX,1,Luis R. Izquierdo
+10.1016/j.softx.2018.07.006,SoftwareX,2,Segismundo S. Izquierdo
+10.1016/j.softx.2018.07.006,SoftwareX,3,William H. Sandholm
+10.1016/j.softx.2018.08.004,SoftwareX,1,Oleg Karaduta
+10.1016/j.softx.2018.08.004,SoftwareX,2,Loutfouz Zaman
+10.1016/j.softx.2018.07.008,SoftwareX,1,Collin J. Wilkinson
+10.1016/j.softx.2018.07.008,SoftwareX,2,Yihong Z. Mauro
+10.1016/j.softx.2018.07.008,SoftwareX,3,John C. Mauro
+10.1016/j.softx.2017.05.004,SoftwareX,1,Hakan Ozbasaran
+10.1016/j.softx.2018.09.001,SoftwareX,1,M. Doucet
+10.1016/j.softx.2018.09.001,SoftwareX,2,R.M. Ferraz Leal
+10.1016/j.softx.2018.09.001,SoftwareX,3,T.C. Hobson
+10.1016/j.softx.2018.09.003,SoftwareX,1,Ariella L. Gladstein
+10.1016/j.softx.2018.09.003,SoftwareX,2,Consuelo D. Quinto-Cortés
+10.1016/j.softx.2018.09.003,SoftwareX,3,Julian L. Pistorius
+10.1016/j.softx.2018.09.003,SoftwareX,4,David Christy
+10.1016/j.softx.2018.09.003,SoftwareX,5,Logan Gantner
+10.1016/j.softx.2018.09.003,SoftwareX,6,Blake L. Joyce
+10.1016/j.softx.2018.09.006,SoftwareX,1,Siqin Meng
+10.1016/j.softx.2018.09.006,SoftwareX,2,Rasmus Toft-Petersen
+10.1016/j.softx.2018.09.006,SoftwareX,3,Lijie Hao
+10.1016/j.softx.2018.09.006,SoftwareX,4,Klaus Habicht
+10.1016/j.softx.2018.10.001,SoftwareX,1,Martin Masek
+10.1016/j.softx.2018.10.001,SoftwareX,2,Chiou Peng Lam
+10.1016/j.softx.2018.10.001,SoftwareX,3,Cameron Tranthim-Fryer
+10.1016/j.softx.2018.10.001,SoftwareX,4,Bas Jansen
+10.1016/j.softx.2018.10.001,SoftwareX,5,Kevin Baptist
+10.1016/j.softx.2018.09.007,SoftwareX,1,D.J. Silva
+10.1016/j.softx.2018.09.007,SoftwareX,2,J.S. Amaral
+10.1016/j.softx.2018.09.007,SoftwareX,3,V.S. Amaral
+10.1016/j.softx.2018.09.005,SoftwareX,1,Benyuan Liu
+10.1016/j.softx.2018.09.005,SoftwareX,2,Bin Yang
+10.1016/j.softx.2018.09.005,SoftwareX,3,Canhua Xu
+10.1016/j.softx.2018.09.005,SoftwareX,4,Junying Xia
+10.1016/j.softx.2018.09.005,SoftwareX,5,Meng Dai
+10.1016/j.softx.2018.09.005,SoftwareX,6,Zhenyu Ji
+10.1016/j.softx.2018.09.005,SoftwareX,7,Fusheng You
+10.1016/j.softx.2018.09.005,SoftwareX,8,Xiuzhen Dong
+10.1016/j.softx.2018.09.005,SoftwareX,9,Xuetao Shi
+10.1016/j.softx.2018.09.005,SoftwareX,10,Feng Fu
+10.1016/j.softx.2018.09.004,SoftwareX,1,Alberto Sartori
+10.1016/j.softx.2018.09.004,SoftwareX,2,Nicola Giuliani
+10.1016/j.softx.2018.09.004,SoftwareX,3,Mauro Bardelloni
+10.1016/j.softx.2018.09.004,SoftwareX,4,Luca Heltai
+10.1016/j.softx.2018.10.002,SoftwareX,1,Mattia Montanari
+10.1016/j.softx.2018.10.002,SoftwareX,2,Nik Petrinic
+10.1016/j.softx.2018.11.001,SoftwareX,1,Vladimir Konkov
+10.1016/j.softx.2018.11.001,SoftwareX,2,Roberto Peverati
+10.1016/j.softx.2018.11.006,SoftwareX,1,Lorenzo Mentaschi
+10.1016/j.softx.2018.11.006,SoftwareX,2,Michalis Vousdoukas
+10.1016/j.softx.2018.11.006,SoftwareX,3,Giovanni Besio
+10.1016/j.softx.2018.11.006,SoftwareX,4,Luc Feyen
+10.1016/j.softx.2018.11.003,SoftwareX,1,Exneyder A. Montoya-Araque
+10.1016/j.softx.2018.11.003,SoftwareX,2,Ludger O. Suarez-Burgoa
+10.1016/j.softx.2018.12.003,SoftwareX,1,Mihály Héder
+10.1016/j.softx.2018.12.003,SoftwareX,2,Szabolcs Tenczer
+10.1016/j.softx.2018.12.003,SoftwareX,3,Andrea Biancini
+10.1016/j.softx.2018.11.004,SoftwareX,1,Hung Tien Pham
+10.1016/j.softx.2018.11.004,SoftwareX,2,Wolfram Rühaak
+10.1016/j.softx.2018.11.004,SoftwareX,3,Valerian Schuster
+10.1016/j.softx.2018.11.004,SoftwareX,4,Ingo Sass
+10.1016/j.softx.2018.11.005,SoftwareX,1,Younes Nejahi
+10.1016/j.softx.2018.11.005,SoftwareX,2,Mohammad Soroush Barhaghi
+10.1016/j.softx.2018.11.005,SoftwareX,3,Jason Mick
+10.1016/j.softx.2018.11.005,SoftwareX,4,Brock Jackman
+10.1016/j.softx.2018.11.005,SoftwareX,5,Kamel Rushaidat
+10.1016/j.softx.2018.11.005,SoftwareX,6,Yuanzhe Li
+10.1016/j.softx.2018.11.005,SoftwareX,7,Loren Schwiebert
+10.1016/j.softx.2018.11.005,SoftwareX,8,Jeffrey Potoff
+10.1016/j.softx.2018.11.007,SoftwareX,1,Antonella Galizia
+10.1016/j.softx.2018.11.007,SoftwareX,2,Gabriele Zereik
+10.1016/j.softx.2018.11.007,SoftwareX,3,Luca Roverelli
+10.1016/j.softx.2018.11.007,SoftwareX,4,Emanuele Danovaro
+10.1016/j.softx.2018.11.007,SoftwareX,5,Andrea Clematis
+10.1016/j.softx.2018.11.007,SoftwareX,6,Daniele D’Agostino
+10.1016/j.softx.2018.12.006,SoftwareX,1,Abhishek Thakur
+10.1016/j.softx.2018.12.006,SoftwareX,2,Arnav Dhamija
+10.1016/j.softx.2018.12.006,SoftwareX,3,Tejeshwar Reddy G.
+10.1016/j.softx.2019.01.008,SoftwareX,1,R. Zupko
+10.1016/j.softx.2019.01.008,SoftwareX,2,M. Rouleau
+10.1016/j.softx.2019.01.015,SoftwareX,1,Arya Shahdi
+10.1016/j.softx.2019.01.015,SoftwareX,2,Ekarit Panacharoensawad
+10.1016/j.softx.2019.01.006,SoftwareX,1,Venkatramanan Krishnamani
+10.1016/j.softx.2019.01.006,SoftwareX,2,Mark A. Stamnes
+10.1016/j.softx.2019.01.006,SoftwareX,3,Robert C. Piper
+10.1016/j.softx.2019.01.007,SoftwareX,1,Juris Vencels
+10.1016/j.softx.2019.01.007,SoftwareX,2,Peter Råback
+10.1016/j.softx.2019.01.007,SoftwareX,3,Vadims Geža
+10.1016/j.softx.2019.01.001,SoftwareX,1,S. Schoeder
+10.1016/j.softx.2019.01.001,SoftwareX,2,W.A. Wall
+10.1016/j.softx.2019.01.001,SoftwareX,3,M. Kronbichler
+10.1016/j.softx.2019.01.016,SoftwareX,1,Andrew Abi-Mansour
+10.1016/j.softx.2019.02.001,SoftwareX,1,Parul Mathur
+10.1016/j.softx.2019.02.001,SoftwareX,2,Mauricio D. Perez
+10.1016/j.softx.2019.02.001,SoftwareX,3,Robin Augustine
+10.1016/j.softx.2019.02.001,SoftwareX,4,Dhanesh G. Kurup
+10.1016/j.softx.2018.12.005,SoftwareX,1,Onur Rauf Bingol
+10.1016/j.softx.2018.12.005,SoftwareX,2,Adarsh Krishnamurthy
+10.1016/j.softx.2019.01.005,SoftwareX,1,Davide Micieli
+10.1016/j.softx.2019.01.005,SoftwareX,2,Triestino Minniti
+10.1016/j.softx.2019.01.005,SoftwareX,3,Giuseppe Gorini
+10.1016/j.softx.2019.02.010,SoftwareX,1,Constantin Steppa
+10.1016/j.softx.2019.02.010,SoftwareX,2,Tim L. Holch
+10.1016/j.softx.2019.02.005,SoftwareX,1,Kristofer Björnson
+10.1016/j.softx.2019.02.009,SoftwareX,1,Marcos Cardinot
+10.1016/j.softx.2019.02.009,SoftwareX,2,Colm O’Riordan
+10.1016/j.softx.2019.02.009,SoftwareX,3,Josephine Griffith
+10.1016/j.softx.2019.02.009,SoftwareX,4,Matjaž Perc
+10.1016/j.softx.2019.03.003,SoftwareX,1,Fabiano Pallonetto
+10.1016/j.softx.2019.03.003,SoftwareX,2,Eleni Mangina
+10.1016/j.softx.2019.03.003,SoftwareX,3,Federico Milano
+10.1016/j.softx.2019.03.003,SoftwareX,4,Donal P. Finn
+10.1016/j.softx.2019.03.002,SoftwareX,1,Liang Tian
+10.1016/j.softx.2019.03.002,SoftwareX,2,Lin Li
+10.1016/j.softx.2019.03.002,SoftwareX,3,Jun Ding
+10.1016/j.softx.2019.03.002,SoftwareX,4,Normand Mousseau
+10.1016/j.softx.2019.02.007,SoftwareX,1,Hsieh-Fu Tsai
+10.1016/j.softx.2019.02.007,SoftwareX,2,Joanna Gajda
+10.1016/j.softx.2019.02.007,SoftwareX,3,Tyler F.W. Sloan
+10.1016/j.softx.2019.02.007,SoftwareX,4,Andrei Rares
+10.1016/j.softx.2019.02.007,SoftwareX,5,Amy Q. Shen
+10.1016/j.softx.2018.12.001,SoftwareX,1,Kaden Plewe
+10.1016/j.softx.2018.12.001,SoftwareX,2,Amanda D. Smith
+10.1016/j.softx.2019.03.008,SoftwareX,1,José A. Álvarez-Gómez
+10.1016/j.softx.2019.02.006,SoftwareX,1,Guillaume F.G. Garnier
+10.1016/j.softx.2019.02.006,SoftwareX,2,Clare A. Manderson
+10.1016/j.softx.2019.02.006,SoftwareX,3,Saveen Giri
+10.1016/j.softx.2019.02.006,SoftwareX,4,Gil Garnier
+10.1016/j.softx.2019.01.003,SoftwareX,1,Andreas F. Haselsteiner
+10.1016/j.softx.2019.01.003,SoftwareX,2,Jannik Lehmkuhl
+10.1016/j.softx.2019.01.003,SoftwareX,3,Tobias Pape
+10.1016/j.softx.2019.01.003,SoftwareX,4,Kai-Lukas Windmeier
+10.1016/j.softx.2019.01.003,SoftwareX,5,Klaus-Dieter Thoben
+10.1016/j.softx.2019.04.003,SoftwareX,1,Daniil Kazantsev
+10.1016/j.softx.2019.04.003,SoftwareX,2,Edoardo Pasca
+10.1016/j.softx.2019.04.003,SoftwareX,3,Martin J. Turner
+10.1016/j.softx.2019.04.003,SoftwareX,4,Philip J. Withers
+10.1016/j.softx.2019.03.005,SoftwareX,1,Matthew Roughan
+10.1016/j.softx.2019.03.007,SoftwareX,1,Vitalis Salis
+10.1016/j.softx.2019.03.007,SoftwareX,2,Diomidis Spinellis
+10.1016/j.softx.2019.100316,SoftwareX,1,Alessio Perinelli
+10.1016/j.softx.2019.100316,SoftwareX,2,Leonardo Ricci
+10.1016/j.softx.2019.100238,SoftwareX,1,Ricardo Nobre
+10.1016/j.softx.2019.100238,SoftwareX,2,João Bispo
+10.1016/j.softx.2019.100238,SoftwareX,3,Tiago Carvalho
+10.1016/j.softx.2019.100238,SoftwareX,4,João M.P. Cardoso
+10.1016/j.softx.2019.01.013,SoftwareX,1,Francisco J. Gómez
+10.1016/j.softx.2019.01.013,SoftwareX,2,Luigi Vanfretti
+10.1016/j.softx.2019.01.013,SoftwareX,3,Miguel Aguilera
+10.1016/j.softx.2019.01.013,SoftwareX,4,Svein H. Olsen
+10.1016/j.softx.2019.01.004,SoftwareX,1,Danny Smyl
+10.1016/j.softx.2019.01.004,SoftwareX,2,Sven Bossuyt
+10.1016/j.softx.2019.01.004,SoftwareX,3,Dong Liu
+10.1016/j.softx.2019.01.002,SoftwareX,1,Pierre Lacroix
+10.1016/j.softx.2019.01.002,SoftwareX,2,Frédéric Moser
+10.1016/j.softx.2019.01.002,SoftwareX,3,Antonio Benvenuti
+10.1016/j.softx.2019.01.002,SoftwareX,4,Thomas Piller
+10.1016/j.softx.2019.01.002,SoftwareX,5,David Jensen
+10.1016/j.softx.2019.01.002,SoftwareX,6,Inga Petersen
+10.1016/j.softx.2019.01.002,SoftwareX,7,Marion Planque
+10.1016/j.softx.2019.01.002,SoftwareX,8,Nicolas Ray
+10.1016/j.softx.2019.01.010,SoftwareX,1,Mohammad AlHamaydeh
+10.1016/j.softx.2019.01.010,SoftwareX,2,Nader Aly
+10.1016/j.softx.2019.01.010,SoftwareX,3,Mohamad Najib
+10.1016/j.softx.2019.01.010,SoftwareX,4,Sameer Alawnah
+10.1016/j.softx.2019.100239,SoftwareX,1,Uwe Köcher
+10.1016/j.softx.2019.100239,SoftwareX,2,Marius Paul Bruchhäuser
+10.1016/j.softx.2019.100239,SoftwareX,3,Markus Bause
+10.1016/j.softx.2019.04.006,SoftwareX,1,Faruk Diblen
+10.1016/j.softx.2019.04.006,SoftwareX,2,Jisk Attema
+10.1016/j.softx.2019.04.006,SoftwareX,3,Rena Bakhshi
+10.1016/j.softx.2019.04.006,SoftwareX,4,Sascha Caron
+10.1016/j.softx.2019.04.006,SoftwareX,5,Luc Hendriks
+10.1016/j.softx.2019.04.006,SoftwareX,6,Bob Stienen
+10.1016/j.softx.2019.100243,SoftwareX,1,T.F. Flint
+10.1016/j.softx.2019.100243,SoftwareX,2,M.C. Smith
+10.1016/j.softx.2019.04.002,SoftwareX,1,Zachary Patterson
+10.1016/j.softx.2019.04.002,SoftwareX,2,Kyle Fitzsimmons
+10.1016/j.softx.2019.04.002,SoftwareX,3,Stewart Jackson
+10.1016/j.softx.2019.04.002,SoftwareX,4,Takeshi Mukai
+10.1016/j.softx.2019.100241,SoftwareX,1,Austen Bernardi
+10.1016/j.softx.2019.100241,SoftwareX,2,Roland Faller
+10.1016/j.softx.2019.100241,SoftwareX,3,Dirk Reith
+10.1016/j.softx.2019.100241,SoftwareX,4,Karl N. Kirschner
+10.1016/j.softx.2019.100257,SoftwareX,1,Jacob L. Moore
+10.1016/j.softx.2019.100257,SoftwareX,2,Nathaniel R. Morgan
+10.1016/j.softx.2019.100257,SoftwareX,3,Mark F. Horstemeyer
+10.1016/j.softx.2019.100259,SoftwareX,1,Christopher Hahne
+10.1016/j.softx.2019.100259,SoftwareX,2,Amar Aggoun
+10.1016/j.softx.2019.100251,SoftwareX,1,Josiah Johnston
+10.1016/j.softx.2019.100251,SoftwareX,2,Rodrigo Henriquez-Auba
+10.1016/j.softx.2019.100251,SoftwareX,3,Benjamín Maluenda
+10.1016/j.softx.2019.100251,SoftwareX,4,Matthias Fripp
+10.1016/j.softx.2019.100273,SoftwareX,1,R.D. Martin
+10.1016/j.softx.2019.100273,SoftwareX,2,Q. Cai
+10.1016/j.softx.2019.100273,SoftwareX,3,T. Garrow
+10.1016/j.softx.2019.100273,SoftwareX,4,C. Kapahi
+10.1016/j.softx.2019.100265,SoftwareX,1,Simon Behrendt
+10.1016/j.softx.2019.100265,SoftwareX,2,Thomas Dimpfl
+10.1016/j.softx.2019.100265,SoftwareX,3,Franziska J. Peter
+10.1016/j.softx.2019.100265,SoftwareX,4,David J. Zimmermann
+10.1016/j.softx.2019.100263,SoftwareX,1,Michael E. Rose
+10.1016/j.softx.2019.100263,SoftwareX,2,John R. Kitchin
+10.1016/j.softx.2019.100270,SoftwareX,1,A. Shigarov
+10.1016/j.softx.2019.100270,SoftwareX,2,V. Khristyuk
+10.1016/j.softx.2019.100270,SoftwareX,3,A. Mikhailov
+10.1016/j.softx.2019.100261,SoftwareX,1,Danny Petschke
+10.1016/j.softx.2019.100261,SoftwareX,2,Torsten E.M. Staab
+10.1016/j.softx.2019.100277,SoftwareX,1,T.G. Tranter
+10.1016/j.softx.2019.100277,SoftwareX,2,M.D.R. Kok
+10.1016/j.softx.2019.100277,SoftwareX,3,M. Lam
+10.1016/j.softx.2019.100277,SoftwareX,4,J.T. Gostick
+10.1016/j.softx.2019.100279,SoftwareX,1,Chiara Carminati
+10.1016/j.softx.2019.100279,SoftwareX,2,Markus Strobl
+10.1016/j.softx.2019.100279,SoftwareX,3,Anders Kaestner
+10.1016/j.softx.2019.100297,SoftwareX,1,Ioannis G. Tsoulos
+10.1016/j.softx.2019.100297,SoftwareX,2,Alexandros Tzallas
+10.1016/j.softx.2019.100297,SoftwareX,3,Dimitris Tsalikakis
+10.1016/j.softx.2019.100287,SoftwareX,1,Andrea Bizzego
+10.1016/j.softx.2019.100287,SoftwareX,2,Alessandro Battisti
+10.1016/j.softx.2019.100287,SoftwareX,3,Giulio Gabrieli
+10.1016/j.softx.2019.100287,SoftwareX,4,Gianluca Esposito
+10.1016/j.softx.2019.100287,SoftwareX,5,Cesare Furlanello
+10.1016/j.softx.2019.100305,SoftwareX,1,Cristian Pop
+10.1016/j.softx.2019.100305,SoftwareX,2,Alexandru Popa
+10.1016/j.softx.2019.100293,SoftwareX,1,Allen Blackman
+10.1016/j.softx.2019.100293,SoftwareX,2,Leonard Goff
+10.1016/j.softx.2019.100293,SoftwareX,3,Jessica Chu
+10.1016/j.softx.2019.100293,SoftwareX,4,Juha Siikamäki
+10.1016/j.softx.2019.100307,SoftwareX,1,Fuyuki Shimojo
+10.1016/j.softx.2019.100307,SoftwareX,2,Shogo Fukushima
+10.1016/j.softx.2019.100307,SoftwareX,3,Hiroyuki Kumazoe
+10.1016/j.softx.2019.100307,SoftwareX,4,Masaaki Misawa
+10.1016/j.softx.2019.100307,SoftwareX,5,Satoshi Ohmura
+10.1016/j.softx.2019.100307,SoftwareX,6,Pankaj Rajak
+10.1016/j.softx.2019.100307,SoftwareX,7,Kohei Shimamura
+10.1016/j.softx.2019.100307,SoftwareX,8,Lindsay Bassman Oftelie
+10.1016/j.softx.2019.100307,SoftwareX,9,Subodh Tiwari
+10.1016/j.softx.2019.100307,SoftwareX,10,Rajiv K. Kalia
+10.1016/j.softx.2019.100307,SoftwareX,11,Aiichiro Nakano
+10.1016/j.softx.2019.100307,SoftwareX,12,Priya Vashishta
+10.1016/j.softx.2019.100292,SoftwareX,1,Keyvan Zare-Rami
+10.1016/j.softx.2019.100292,SoftwareX,2,Yong-Rak Kim
+10.1016/j.softx.2019.100309,SoftwareX,1,Mihiran Galagedarage Don
+10.1016/j.softx.2019.100309,SoftwareX,2,Faisal Khan
+10.1016/j.softx.2019.100299,SoftwareX,1,Carlo Bianchi
+10.1016/j.softx.2019.100299,SoftwareX,2,Amanda D. Smith
+10.1016/j.softx.2019.100302,SoftwareX,1,V. Bortolotti
+10.1016/j.softx.2019.100302,SoftwareX,2,L. Brizi
+10.1016/j.softx.2019.100302,SoftwareX,3,P. Fantazzini
+10.1016/j.softx.2019.100302,SoftwareX,4,G. Landi
+10.1016/j.softx.2019.100302,SoftwareX,5,F. Zama
+10.1016/j.softx.2019.100311,SoftwareX,1,Giuseppe Carleo
+10.1016/j.softx.2019.100311,SoftwareX,2,Kenny Choo
+10.1016/j.softx.2019.100311,SoftwareX,3,Damian Hofmann
+10.1016/j.softx.2019.100311,SoftwareX,4,James E.T. Smith
+10.1016/j.softx.2019.100311,SoftwareX,5,Tom Westerhout
+10.1016/j.softx.2019.100311,SoftwareX,6,Fabien Alet
+10.1016/j.softx.2019.100311,SoftwareX,7,Emily J. Davis
+10.1016/j.softx.2019.100311,SoftwareX,8,Stavros Efthymiou
+10.1016/j.softx.2019.100311,SoftwareX,9,Ivan Glasser
+10.1016/j.softx.2019.100311,SoftwareX,10,Sheng-Hsuan Lin
+10.1016/j.softx.2019.100311,SoftwareX,11,Marta Mauri
+10.1016/j.softx.2019.100311,SoftwareX,12,Guglielmo Mazzola
+10.1016/j.softx.2019.100311,SoftwareX,13,Christian B. Mendl
+10.1016/j.softx.2019.100311,SoftwareX,14,Evert van Nieuwenburg
+10.1016/j.softx.2019.100311,SoftwareX,15,Ossian O’Reilly
+10.1016/j.softx.2019.100311,SoftwareX,16,Hugo Théveniaut
+10.1016/j.softx.2019.100311,SoftwareX,17,Giacomo Torlai
+10.1016/j.softx.2019.100311,SoftwareX,18,Filippo Vicentini
+10.1016/j.softx.2019.100311,SoftwareX,19,Alexander Wietek
+10.1016/j.softx.2019.100322,SoftwareX,1,Loïc Besnard
+10.1016/j.softx.2019.100322,SoftwareX,2,Pedro Pinto
+10.1016/j.softx.2019.100322,SoftwareX,3,Imane Lasri
+10.1016/j.softx.2019.100322,SoftwareX,4,João Bispo
+10.1016/j.softx.2019.100322,SoftwareX,5,Erven Rohou
+10.1016/j.softx.2019.100322,SoftwareX,6,João M.P. Cardoso
+10.1016/j.softx.2019.100325,SoftwareX,1,Carlos Argáez
+10.1016/j.softx.2019.100325,SoftwareX,2,Jean-Claude Berthet
+10.1016/j.softx.2019.100325,SoftwareX,3,Hjörtur Björnsson
+10.1016/j.softx.2019.100325,SoftwareX,4,Peter Giesl
+10.1016/j.softx.2019.100325,SoftwareX,5,Sigurdur Freyr Hafstein
+10.1016/j.softx.2019.100303,SoftwareX,1,Andreas P. Cuny
+10.1016/j.softx.2019.100303,SoftwareX,2,David Martínez-Martín
+10.1016/j.softx.2019.100303,SoftwareX,3,Gotthold Fläschner
+10.1016/j.softx.2019.100323,SoftwareX,1,Addi Ait-Mlouk
+10.1016/j.softx.2019.100323,SoftwareX,2,Tarik Agouti
+10.1016/j.softx.2019.100337,SoftwareX,1,Andrew Gloster
+10.1016/j.softx.2019.100337,SoftwareX,2,Lennon Ó Náraigh
+10.1016/j.softx.2019.100335,SoftwareX,1,B. Perret
+10.1016/j.softx.2019.100335,SoftwareX,2,G. Chierchia
+10.1016/j.softx.2019.100335,SoftwareX,3,J. Cousty
+10.1016/j.softx.2019.100335,SoftwareX,4,S.J. F. Guimarães
+10.1016/j.softx.2019.100335,SoftwareX,5,Y. Kenmochi
+10.1016/j.softx.2019.100335,SoftwareX,6,L. Najman
+10.1016/j.softx.2019.100333,SoftwareX,1,Richard C. Gerum
+10.1016/j.softx.2019.100333,SoftwareX,2,Sebastian Richter
+10.1016/j.softx.2019.100333,SoftwareX,3,Alexander Winterl
+10.1016/j.softx.2019.100333,SoftwareX,4,Christoph Mark
+10.1016/j.softx.2019.100333,SoftwareX,5,Ben Fabry
+10.1016/j.softx.2019.100333,SoftwareX,6,Céline Le Bohec
+10.1016/j.softx.2019.100333,SoftwareX,7,Daniel P. Zitterbart
+10.1016/j.softx.2019.100329,SoftwareX,1,Camille El-Habr
+10.1016/j.softx.2019.100329,SoftwareX,2,Xavier Garcia
+10.1016/j.softx.2019.100329,SoftwareX,3,Pujana Paliyawan
+10.1016/j.softx.2019.100329,SoftwareX,4,Ruck Thawonmas
+10.1016/j.softx.2019.100345,SoftwareX,1,Adrien Cassagne
+10.1016/j.softx.2019.100345,SoftwareX,2,Olivier Hartmann
+10.1016/j.softx.2019.100345,SoftwareX,3,Mathieu Léonardon
+10.1016/j.softx.2019.100345,SoftwareX,4,Kun He
+10.1016/j.softx.2019.100345,SoftwareX,5,Camille Leroux
+10.1016/j.softx.2019.100345,SoftwareX,6,Romain Tajan
+10.1016/j.softx.2019.100345,SoftwareX,7,Olivier Aumage
+10.1016/j.softx.2019.100345,SoftwareX,8,Denis Barthou
+10.1016/j.softx.2019.100345,SoftwareX,9,Thibaud Tonnellier
+10.1016/j.softx.2019.100345,SoftwareX,10,Vincent Pignoly
+10.1016/j.softx.2019.100345,SoftwareX,11,Bertrand Le Gal
+10.1016/j.softx.2019.100345,SoftwareX,12,Christophe Jégo
+10.1016/j.softx.2018.10.004,SoftwareX,1,Claudio Bustos Navarrete
+10.1016/j.softx.2018.10.004,SoftwareX,2,María Gabriela Morales Malverde
+10.1016/j.softx.2018.10.004,SoftwareX,3,Pedro Salcedo Lagos
+10.1016/j.softx.2018.10.004,SoftwareX,4,Alejandro Díaz Mujica
+10.1016/j.softx.2019.03.006,SoftwareX,1,Gianfranco Giulioni
+10.1016/j.softx.2019.01.009,SoftwareX,1,Brandon K. Horton
+10.1016/j.softx.2019.01.009,SoftwareX,2,Rajiv K. Kalia
+10.1016/j.softx.2019.01.009,SoftwareX,3,Erick Moen
+10.1016/j.softx.2019.01.009,SoftwareX,4,Aiichiro Nakano
+10.1016/j.softx.2019.01.009,SoftwareX,5,Ken-ichi Nomura
+10.1016/j.softx.2019.01.009,SoftwareX,6,Michael Qian
+10.1016/j.softx.2019.01.009,SoftwareX,7,Priya Vashishta
+10.1016/j.softx.2019.01.009,SoftwareX,8,Anders Hafreager
+10.1016/j.softx.2019.100347,SoftwareX,1,Jeremiah W. Sanders
+10.1016/j.softx.2019.100347,SoftwareX,2,Justin R. Fletcher
+10.1016/j.softx.2019.100347,SoftwareX,3,Steven J. Frank
+10.1016/j.softx.2019.100347,SoftwareX,4,Ho-Ling Liu
+10.1016/j.softx.2019.100347,SoftwareX,5,Jason M. Johnson
+10.1016/j.softx.2019.100347,SoftwareX,6,Zijian Zhou
+10.1016/j.softx.2019.100347,SoftwareX,7,Henry Szu-Meng Chen
+10.1016/j.softx.2019.100347,SoftwareX,8,Aradhana M. Venkatesan
+10.1016/j.softx.2019.100347,SoftwareX,9,Rajat J. Kudchadker
+10.1016/j.softx.2019.100347,SoftwareX,10,Mark D. Pagel
+10.1016/j.softx.2019.100347,SoftwareX,11,Jingfei Ma
+10.1016/j.softx.2019.100349,SoftwareX,1,Len Bos
+10.1016/j.softx.2019.100349,SoftwareX,2,Marco Vianello
+10.1016/j.softx.2019.100355,SoftwareX,1,Ioannis G. Tsoulos
+10.1016/j.softx.2019.100355,SoftwareX,2,Vasileios Stavrou
+10.1016/j.softx.2019.100355,SoftwareX,3,Nikolaos E. Mastorakis
+10.1016/j.softx.2019.100355,SoftwareX,4,Dimitrios Tsalikakis
+10.1016/j.softx.2019.100353,SoftwareX,1,Tony Saad
+10.1016/j.softx.2019.100353,SoftwareX,2,Giovanna Ruai
+10.1016/j.softx.2019.100351,SoftwareX,1,Issam Hammad
+10.1016/j.softx.2019.100351,SoftwareX,2,Kamal El-Sankary
+10.1016/j.softx.2019.100351,SoftwareX,3,Holly Hornibrook
+10.1016/j.softx.2019.100357,SoftwareX,1,Vidhyashree Nagaraju
+10.1016/j.softx.2019.100357,SoftwareX,2,Venkateswaran Shekar
+10.1016/j.softx.2019.100357,SoftwareX,3,Joshua Steakelum
+10.1016/j.softx.2019.100357,SoftwareX,4,Melanie Luperon
+10.1016/j.softx.2019.100357,SoftwareX,5,Ying Shi
+10.1016/j.softx.2019.100357,SoftwareX,6,Lance Fiondella
+10.1016/j.softx.2019.100361,SoftwareX,1,Matteo Ravasi
+10.1016/j.softx.2019.100361,SoftwareX,2,Ivan Vasconcelos
+10.1016/j.softx.2019.100367,SoftwareX,1,Andrea Valenza
+10.1016/j.softx.2019.100367,SoftwareX,2,Luca Demetrio
+10.1016/j.softx.2019.100367,SoftwareX,3,Gabriele Costa
+10.1016/j.softx.2019.100367,SoftwareX,4,Giovanni Lagorio
+10.1016/j.softx.2019.100371,SoftwareX,1,Daniel Silvestre
+10.1016/j.softx.2019.100369,SoftwareX,1,Konrad Werys
+10.1016/j.softx.2019.100369,SoftwareX,2,Iulius Dragonu
+10.1016/j.softx.2019.100369,SoftwareX,3,Qiang Zhang
+10.1016/j.softx.2019.100369,SoftwareX,4,Iulia Popescu
+10.1016/j.softx.2019.100369,SoftwareX,5,Evan Hann
+10.1016/j.softx.2019.100369,SoftwareX,6,Henrike Puchta
+10.1016/j.softx.2019.100369,SoftwareX,7,Agata Kubik
+10.1016/j.softx.2019.100369,SoftwareX,8,Dogan Polat
+10.1016/j.softx.2019.100369,SoftwareX,9,Cody Wu
+10.1016/j.softx.2019.100369,SoftwareX,10,Niall O. Moon
+10.1016/j.softx.2019.100369,SoftwareX,11,Ahmet Barutcu
+10.1016/j.softx.2019.100369,SoftwareX,12,Vanessa M. Ferreira
+10.1016/j.softx.2019.100369,SoftwareX,13,Stefan K. Piechnik
+10.1016/j.softx.2019.100385,SoftwareX,1,Vladimir V. Kisil
+10.1016/j.softx.2019.100365,SoftwareX,1,Adrian R.G. Harwood
+10.1016/j.softx.2019.100365,SoftwareX,2,James Gill
+10.1016/j.softx.2019.100365,SoftwareX,3,Simeon Gill
+10.1016/j.softx.2019.100383,SoftwareX,1,Emerson Boeira
+10.1016/j.softx.2019.100383,SoftwareX,2,Diego Eckhard
+10.1016/j.softx.2019.100377,SoftwareX,1,Kara M. Koetje
+10.1016/j.softx.2019.100377,SoftwareX,2,Margaret L. Palmsten
+10.1016/j.softx.2019.100393,SoftwareX,1,Yihong Z. Mauro
+10.1016/j.softx.2019.100393,SoftwareX,2,Collin J. Wilkinson
+10.1016/j.softx.2019.100393,SoftwareX,3,John C. Mauro
+10.1016/j.softx.2020.100397,SoftwareX,1,Danny R. Ramasawmy
+10.1016/j.softx.2020.100397,SoftwareX,2,Ben T. Cox
+10.1016/j.softx.2020.100397,SoftwareX,3,Bradley E. Treeby
+10.1016/j.softx.2020.100400,SoftwareX,1,Carlos Gavidia-Calderon
+10.1016/j.softx.2020.100400,SoftwareX,2,César Beltrán Castañon
+10.1016/j.softx.2020.100405,SoftwareX,1,Ruman Gerst
+10.1016/j.softx.2020.100405,SoftwareX,2,Anna Medyukhina
+10.1016/j.softx.2020.100405,SoftwareX,3,Marc Thilo Figge
+10.1016/j.softx.2019.100364,SoftwareX,1,A. Kostenko
+10.1016/j.softx.2019.100364,SoftwareX,2,W.J. Palenstijn
+10.1016/j.softx.2019.100364,SoftwareX,3,S.B. Coban
+10.1016/j.softx.2019.100364,SoftwareX,4,A.A. Hendriksen
+10.1016/j.softx.2019.100364,SoftwareX,5,R. van Liere
+10.1016/j.softx.2019.100364,SoftwareX,6,K.J. Batenburg
+10.1016/j.softx.2020.100415,SoftwareX,1,Marco Archetti
+10.1016/j.softx.2020.100417,SoftwareX,1,Emma Lejeune
+10.1016/j.softx.2020.100417,SoftwareX,2,Alex Khang
+10.1016/j.softx.2020.100417,SoftwareX,3,Jacob Sansom
+10.1016/j.softx.2020.100417,SoftwareX,4,Michael S. Sacks
+10.1016/j.softx.2020.100409,SoftwareX,1,Michel Krämer
+10.1016/j.softx.2020.100407,SoftwareX,1,Savas Konur
+10.1016/j.softx.2020.100407,SoftwareX,2,Laurenţiu Mierlă
+10.1016/j.softx.2020.100407,SoftwareX,3,Florentin Ipate
+10.1016/j.softx.2020.100407,SoftwareX,4,Marian Gheorghe
+10.1016/j.softx.2020.100403,SoftwareX,1,Simone Aonzo
+10.1016/j.softx.2020.100403,SoftwareX,2,Gabriel Claudiu Georgiu
+10.1016/j.softx.2020.100403,SoftwareX,3,Luca Verderame
+10.1016/j.softx.2020.100403,SoftwareX,4,Alessio Merlo
+10.1016/j.softx.2019.100395,SoftwareX,1,Jose Manuel López
+10.1016/j.softx.2019.100395,SoftwareX,2,Daniel Feldmann
+10.1016/j.softx.2019.100395,SoftwareX,3,Markus Rampp
+10.1016/j.softx.2019.100395,SoftwareX,4,Alberto Vela-Martín
+10.1016/j.softx.2019.100395,SoftwareX,5,Liang Shi
+10.1016/j.softx.2019.100395,SoftwareX,6,Marc Avila
+10.1016/j.softx.2019.100391,SoftwareX,1,Sindre Nordmark Olufsen
+10.1016/j.softx.2019.100391,SoftwareX,2,Marius Endre Andersen
+10.1016/j.softx.2019.100391,SoftwareX,3,Egil Fagerholt
+10.1016/j.softx.2019.100389,SoftwareX,1,Ken-ichi Nomura
+10.1016/j.softx.2019.100389,SoftwareX,2,Rajiv K. Kalia
+10.1016/j.softx.2019.100389,SoftwareX,3,Aiichiro Nakano
+10.1016/j.softx.2019.100389,SoftwareX,4,Pankaj Rajak
+10.1016/j.softx.2019.100389,SoftwareX,5,Priya Vashishta
+10.1016/j.softx.2020.100419,SoftwareX,1,V. Zambrano
+10.1016/j.softx.2020.100419,SoftwareX,2,R. Rodríguez-Barrachina
+10.1016/j.softx.2020.100419,SoftwareX,3,S. Calvo
+10.1016/j.softx.2020.100419,SoftwareX,4,S. Izquierdo
+10.1016/j.softx.2020.100423,SoftwareX,1,Qimen Xu
+10.1016/j.softx.2020.100423,SoftwareX,2,Abhiraj Sharma
+10.1016/j.softx.2020.100423,SoftwareX,3,Phanish Suryanarayana
+10.1016/j.softx.2020.100413,SoftwareX,1,T. Janke
+10.1016/j.softx.2020.100413,SoftwareX,2,R. Schwarze
+10.1016/j.softx.2020.100413,SoftwareX,3,K. Bauer
+10.1016/j.softx.2020.100430,SoftwareX,1,Cody J. Permann
+10.1016/j.softx.2020.100430,SoftwareX,2,Derek R. Gaston
+10.1016/j.softx.2020.100430,SoftwareX,3,David Andrš
+10.1016/j.softx.2020.100430,SoftwareX,4,Robert W. Carlsen
+10.1016/j.softx.2020.100430,SoftwareX,5,Fande Kong
+10.1016/j.softx.2020.100430,SoftwareX,6,Alexander D. Lindsay
+10.1016/j.softx.2020.100430,SoftwareX,7,Jason M. Miller
+10.1016/j.softx.2020.100430,SoftwareX,8,John W. Peterson
+10.1016/j.softx.2020.100430,SoftwareX,9,Andrew E. Slaughter
+10.1016/j.softx.2020.100430,SoftwareX,10,Roy H. Stogner
+10.1016/j.softx.2020.100430,SoftwareX,11,Richard C. Martineau
+10.1016/j.softx.2020.100432,SoftwareX,1,Taysseer Sharaf
+10.1016/j.softx.2020.100432,SoftwareX,2,Theren Williams
+10.1016/j.softx.2020.100432,SoftwareX,3,Abdallah Chehade
+10.1016/j.softx.2020.100432,SoftwareX,4,Keshav Pokhrel
+10.1016/j.softx.2020.100450,SoftwareX,1,Konstantin Weise
+10.1016/j.softx.2020.100450,SoftwareX,2,Lucas Poßner
+10.1016/j.softx.2020.100450,SoftwareX,3,Erik Müller
+10.1016/j.softx.2020.100450,SoftwareX,4,Richard Gast
+10.1016/j.softx.2020.100450,SoftwareX,5,Thomas R. Knösche
+10.1016/j.softx.2020.100446,SoftwareX,1,N. Karathanasopoulos
+10.1016/j.softx.2020.100446,SoftwareX,2,F. Dos Reis
+10.1016/j.softx.2020.100446,SoftwareX,3,P. Hadjidoukas
+10.1016/j.softx.2020.100446,SoftwareX,4,J.F. Ganghoffer
+10.1016/j.softx.2020.100448,SoftwareX,1,Jorge Alberto Cerecedo-Cordoba
+10.1016/j.softx.2020.100448,SoftwareX,2,Juan Frausto-Solís
+10.1016/j.softx.2020.100448,SoftwareX,3,Juan Javier González Barbosa
+10.1016/j.softx.2020.100453,SoftwareX,1,Robin K.S. Hankin
+10.1016/j.softx.2020.100428,SoftwareX,1,S. Boudet
+10.1016/j.softx.2020.100428,SoftwareX,2,A. Houzé l’Aulnoit
+10.1016/j.softx.2020.100428,SoftwareX,3,R. Demailly
+10.1016/j.softx.2020.100428,SoftwareX,4,A. Delgranche
+10.1016/j.softx.2020.100428,SoftwareX,5,L. Peyrodie
+10.1016/j.softx.2020.100428,SoftwareX,6,R. Beuscart
+10.1016/j.softx.2020.100428,SoftwareX,7,D. Houzé de l’Aulnoit
+10.1016/j.softx.2020.100456,SoftwareX,1,Marília Barandas
+10.1016/j.softx.2020.100456,SoftwareX,2,Duarte Folgado
+10.1016/j.softx.2020.100456,SoftwareX,3,Letícia Fernandes
+10.1016/j.softx.2020.100456,SoftwareX,4,Sara Santos
+10.1016/j.softx.2020.100456,SoftwareX,5,Mariana Abreu
+10.1016/j.softx.2020.100456,SoftwareX,6,Patrícia Bota
+10.1016/j.softx.2020.100456,SoftwareX,7,Hui Liu
+10.1016/j.softx.2020.100456,SoftwareX,8,Tanja Schultz
+10.1016/j.softx.2020.100456,SoftwareX,9,Hugo Gamboa
+10.1016/j.softx.2020.100438,SoftwareX,1,Sebastian Schwindt
+10.1016/j.softx.2020.100438,SoftwareX,2,Kenneth Larrieu
+10.1016/j.softx.2020.100438,SoftwareX,3,Gregory B. Pasternack
+10.1016/j.softx.2020.100438,SoftwareX,4,Geoff Rabone
+10.1016/j.softx.2020.100426,SoftwareX,1,Boris Bogaerts
+10.1016/j.softx.2020.100426,SoftwareX,2,Seppe Sels
+10.1016/j.softx.2020.100426,SoftwareX,3,Steve Vanlanduit
+10.1016/j.softx.2020.100426,SoftwareX,4,Rudi Penne
+10.1016/j.softx.2020.100440,SoftwareX,1,J.A. Cornwell
+10.1016/j.softx.2020.100440,SoftwareX,2,J. Li
+10.1016/j.softx.2020.100440,SoftwareX,3,S. Mahadevan
+10.1016/j.softx.2020.100440,SoftwareX,4,J.S. Draper
+10.1016/j.softx.2020.100440,SoftwareX,5,G.L. Joun
+10.1016/j.softx.2020.100440,SoftwareX,6,H. Zoellner
+10.1016/j.softx.2020.100440,SoftwareX,7,N.S. Asli
+10.1016/j.softx.2020.100440,SoftwareX,8,R.P. Harvey
+10.1016/j.softx.2020.100440,SoftwareX,9,R.E. Nordon
+10.1016/j.softx.2020.100442,SoftwareX,1,Udit Gupta
+10.1016/j.softx.2020.100442,SoftwareX,2,Dionisios G. Vlachos
+10.1016/j.softx.2020.100470,SoftwareX,1,Dhurata Nebiu
+10.1016/j.softx.2020.100470,SoftwareX,2,Hiqmet Kamberaj
+10.1016/j.softx.2020.100464,SoftwareX,1,Mohamed M.S. Nasser
+10.1016/j.softx.2020.100458,SoftwareX,1,M.J. Roy
+10.1016/j.softx.2020.100458,SoftwareX,2,N. Stoyanov
+10.1016/j.softx.2020.100458,SoftwareX,3,R.J. Moat
+10.1016/j.softx.2020.100458,SoftwareX,4,P.J. Withers
+10.1016/j.softx.2019.100359,SoftwareX,1,Dmitry Drozin
+10.1016/j.softx.2019.100359,SoftwareX,2,Sergey Sozykin
+10.1016/j.softx.2019.100359,SoftwareX,3,Natalia Ivanova
+10.1016/j.softx.2019.100359,SoftwareX,4,Tatiana Olenchikova
+10.1016/j.softx.2019.100359,SoftwareX,5,Tatyana Krupnova
+10.1016/j.softx.2019.100359,SoftwareX,6,Natalia Krupina
+10.1016/j.softx.2019.100359,SoftwareX,7,Viacheslav Avdin
+10.1016/j.softx.2020.100481,SoftwareX,1,Marcelo S. Medeiros
+10.1016/j.softx.2020.100481,SoftwareX,2,Evandro Parente
+10.1016/j.softx.2020.100483,SoftwareX,1,Martin Heinrich
+10.1016/j.softx.2020.100483,SoftwareX,2,Rüdiger Schwarze
+10.1016/j.softx.2020.100468,SoftwareX,1,Richard Nisius
+10.1016/j.softx.2020.100461,SoftwareX,1,Patrícia Alves-Oliveira
+10.1016/j.softx.2020.100461,SoftwareX,2,Samuel Gomes
+10.1016/j.softx.2020.100461,SoftwareX,3,Ankita Chandak
+10.1016/j.softx.2020.100461,SoftwareX,4,Patrícia Arriaga
+10.1016/j.softx.2020.100461,SoftwareX,5,Guy Hoffman
+10.1016/j.softx.2020.100461,SoftwareX,6,Ana Paiva
+10.1016/j.softx.2020.100478,SoftwareX,1,Lucas L. Cendes
+10.1016/j.softx.2020.100478,SoftwareX,2,Welliton de Souza
+10.1016/j.softx.2020.100478,SoftwareX,3,Iscia Lopes-Cendes
+10.1016/j.softx.2020.100478,SoftwareX,4,Benilton S. Carvalho
+10.1016/j.softx.2020.100462,SoftwareX,1,Nicolas Renaud
+10.1016/j.softx.2020.100462,SoftwareX,2,Yong Jung
+10.1016/j.softx.2020.100462,SoftwareX,3,Vasant Honavar
+10.1016/j.softx.2020.100462,SoftwareX,4,Cunliang Geng
+10.1016/j.softx.2020.100462,SoftwareX,5,Alexandre M.J.J. Bonvin
+10.1016/j.softx.2020.100462,SoftwareX,6,Li C. Xue
+10.1016/j.softx.2020.100436,SoftwareX,1,N. Moshiri
+10.1016/j.softx.2020.100474,SoftwareX,1,Richard Semaan
+10.1016/j.softx.2020.100474,SoftwareX,2,Vikas Yadav
+10.1016/j.softx.2020.100476,SoftwareX,1,J. Dölz
+10.1016/j.softx.2020.100476,SoftwareX,2,H. Harbrecht
+10.1016/j.softx.2020.100476,SoftwareX,3,S. Kurz
+10.1016/j.softx.2020.100476,SoftwareX,4,M. Multerer
+10.1016/j.softx.2020.100476,SoftwareX,5,S. Schöps
+10.1016/j.softx.2020.100476,SoftwareX,6,F. Wolf
+10.1016/j.softx.2020.100472,SoftwareX,1,Conrad Stansbury
+10.1016/j.softx.2020.100472,SoftwareX,2,Alessandra Lanzara
+10.1016/j.softx.2020.100434,SoftwareX,1,Brunno Machado de Campos
+10.1016/j.softx.2020.100434,SoftwareX,2,Raphael Fernandes Casseb
+10.1016/j.softx.2020.100434,SoftwareX,3,Fernando Cendes
+10.1016/j.softx.2020.100487,SoftwareX,1,W. Krzemien
+10.1016/j.softx.2020.100487,SoftwareX,2,A. Gajos
+10.1016/j.softx.2020.100487,SoftwareX,3,K. Kacprzak
+10.1016/j.softx.2020.100487,SoftwareX,4,K. Rakoczy
+10.1016/j.softx.2020.100487,SoftwareX,5,G. Korcyl
+10.1016/j.softx.2020.100485,SoftwareX,1,Wensi Wu
+10.1016/j.softx.2020.100485,SoftwareX,2,Justyna Kosianka
+10.1016/j.softx.2020.100485,SoftwareX,3,Heather Reed
+10.1016/j.softx.2020.100485,SoftwareX,4,Christopher Stull
+10.1016/j.softx.2020.100485,SoftwareX,5,Christopher Earls
+10.1016/j.softx.2020.100493,SoftwareX,1,Subasish Das
+10.1016/j.softx.2020.100493,SoftwareX,2,L.D. White
+10.1016/j.softx.2020.100497,SoftwareX,1,Guus Rongen
+10.1016/j.softx.2020.100497,SoftwareX,2,Cornelis Marcel Pieter ’t Hart
+10.1016/j.softx.2020.100497,SoftwareX,3,Georgios Leontaris
+10.1016/j.softx.2020.100497,SoftwareX,4,Oswaldo Morales-Nápoles
+10.1016/j.softx.2020.100495,SoftwareX,1,Helon Vicente Hultmann Ayala
+10.1016/j.softx.2020.100495,SoftwareX,2,Marcos Cesar Gritti
+10.1016/j.softx.2020.100495,SoftwareX,3,Leandro dos Santos Coelho
+10.1016/j.softx.2020.100506,SoftwareX,1,Patrick Herring
+10.1016/j.softx.2020.100506,SoftwareX,2,Chirranjeevi Balaji Gopal
+10.1016/j.softx.2020.100506,SoftwareX,3,Muratahan Aykol
+10.1016/j.softx.2020.100506,SoftwareX,4,Joseph H. Montoya
+10.1016/j.softx.2020.100506,SoftwareX,5,Abraham Anapolsky
+10.1016/j.softx.2020.100506,SoftwareX,6,Peter M. Attia
+10.1016/j.softx.2020.100506,SoftwareX,7,William Gent
+10.1016/j.softx.2020.100506,SoftwareX,8,Jens S. Hummelshøj
+10.1016/j.softx.2020.100506,SoftwareX,9,Linda Hung
+10.1016/j.softx.2020.100506,SoftwareX,10,Ha-Kyung Kwon
+10.1016/j.softx.2020.100506,SoftwareX,11,Patrick Moore
+10.1016/j.softx.2020.100506,SoftwareX,12,Daniel Schweigert
+10.1016/j.softx.2020.100506,SoftwareX,13,Kristen A. Severson
+10.1016/j.softx.2020.100506,SoftwareX,14,Santosh Suram
+10.1016/j.softx.2020.100506,SoftwareX,15,Zi Yang
+10.1016/j.softx.2020.100506,SoftwareX,16,Richard D. Braatz
+10.1016/j.softx.2020.100506,SoftwareX,17,Brian D. Storey
+10.1016/j.softx.2020.100501,SoftwareX,1,Umberto Maniscalco
+10.1016/j.softx.2020.100501,SoftwareX,2,Antonio Messina
+10.1016/j.softx.2020.100501,SoftwareX,3,Pietro Storniolo
+10.1016/j.softx.2020.100508,SoftwareX,1,Jonas Eschle
+10.1016/j.softx.2020.100508,SoftwareX,2,Albert Puig Navarro
+10.1016/j.softx.2020.100508,SoftwareX,3,Rafael Silva Coutinho
+10.1016/j.softx.2020.100508,SoftwareX,4,Nicola Serra
+10.1016/j.softx.2020.100499,SoftwareX,1,Rebecca Loraamm
+10.1016/j.softx.2020.100499,SoftwareX,2,Joni Downs
+10.1016/j.softx.2020.100499,SoftwareX,3,James Anderson
+10.1016/j.softx.2020.100499,SoftwareX,4,David S. Lamb
+10.1016/j.softx.2020.100512,SoftwareX,1,Luca Ardito
+10.1016/j.softx.2020.100512,SoftwareX,2,Marco Torchiano
+10.1016/j.softx.2020.100512,SoftwareX,3,Riccardo Coppola
+10.1016/j.softx.2020.100512,SoftwareX,4,Giulio Antoniol
+10.1016/j.softx.2020.100520,SoftwareX,1,Paulo Paneque Galuzio
+10.1016/j.softx.2020.100520,SoftwareX,2,Emerson Hochsteiner de Vasconcelos Segundo
+10.1016/j.softx.2020.100520,SoftwareX,3,Leandro dos Santos Coelho
+10.1016/j.softx.2020.100520,SoftwareX,4,Viviana Cocco Mariani
+10.1016/j.softx.2020.100526,SoftwareX,1,Yifei Zhang
+10.1016/j.softx.2020.100526,SoftwareX,2,Jia Cao
+10.1016/j.softx.2020.100517,SoftwareX,1,P.E. Hadjidoukas
+10.1016/j.softx.2020.100517,SoftwareX,2,A. Bartezzaghi
+10.1016/j.softx.2020.100517,SoftwareX,3,F. Scheidegger
+10.1016/j.softx.2020.100517,SoftwareX,4,R. Istrate
+10.1016/j.softx.2020.100517,SoftwareX,5,C. Bekas
+10.1016/j.softx.2020.100517,SoftwareX,6,A.C.I. Malossi
+10.1016/j.softx.2020.100525,SoftwareX,1,Crispin H.V. Cooper
+10.1016/j.softx.2020.100525,SoftwareX,2,Alain J.F. Chiaradia
+10.1016/j.softx.2020.100528,SoftwareX,1,Oleksiy V. Penkov
+10.1016/j.softx.2020.100528,SoftwareX,2,Igor A. Kopylets
+10.1016/j.softx.2020.100528,SoftwareX,3,Mahdi Khadem
+10.1016/j.softx.2020.100528,SoftwareX,4,Tianzuo Qin
+10.1016/j.softx.2020.100522,SoftwareX,1,Marco S. Rodrigues
+10.1016/j.softx.2020.100522,SoftwareX,2,Rui M.S. Pereira
+10.1016/j.softx.2020.100522,SoftwareX,3,Mikhail I. Vasilevskiy
+10.1016/j.softx.2020.100522,SoftwareX,4,Joel Borges
+10.1016/j.softx.2020.100522,SoftwareX,5,Filipe Vaz
+10.1016/j.softx.2020.100516,SoftwareX,1,Giuseppe Futia
+10.1016/j.softx.2020.100516,SoftwareX,2,Antonio Vetrò
+10.1016/j.softx.2020.100516,SoftwareX,3,Juan Carlos De Martin
+10.1016/j.softx.2020.100518,SoftwareX,1,Azim Ahmadzadeh
+10.1016/j.softx.2020.100518,SoftwareX,2,Kankana Sinha
+10.1016/j.softx.2020.100518,SoftwareX,3,Berkay Aydin
+10.1016/j.softx.2020.100518,SoftwareX,4,Rafal A. Angryk
+10.1016/j.softx.2020.100539,SoftwareX,1,Cemre Cubukcuoglu
+10.1016/j.softx.2020.100539,SoftwareX,2,Pirouz Nourian
+10.1016/j.softx.2020.100539,SoftwareX,3,I. Sevil Sariyildiz
+10.1016/j.softx.2020.100539,SoftwareX,4,M. Fatih Tasgetiren
+10.1016/j.softx.2020.100549,SoftwareX,1,A. Sclocco
+10.1016/j.softx.2020.100549,SoftwareX,2,S. Heldens
+10.1016/j.softx.2020.100549,SoftwareX,3,B. van Werkhoven
+10.1016/j.softx.2020.100535,SoftwareX,1,João R. Almeida
+10.1016/j.softx.2020.100535,SoftwareX,2,Armando J. Pinho
+10.1016/j.softx.2020.100535,SoftwareX,3,José L. Oliveira
+10.1016/j.softx.2020.100535,SoftwareX,4,Olga Fajarda
+10.1016/j.softx.2020.100535,SoftwareX,5,Diogo Pratas
+10.1016/j.softx.2020.100550,SoftwareX,1,Paul Bartholomew
+10.1016/j.softx.2020.100550,SoftwareX,2,Georgios Deskos
+10.1016/j.softx.2020.100550,SoftwareX,3,Ricardo A.S. Frantz
+10.1016/j.softx.2020.100550,SoftwareX,4,Felipe N. Schuch
+10.1016/j.softx.2020.100550,SoftwareX,5,Eric Lamballais
+10.1016/j.softx.2020.100550,SoftwareX,6,Sylvain Laizet
+10.1016/j.softx.2020.100555,SoftwareX,1,Amarin Siripanich
+10.1016/j.softx.2020.100555,SoftwareX,2,Taha Hossein Rashidi
+10.1016/j.softx.2020.100559,SoftwareX,1,Michael G. Leeming
+10.1016/j.softx.2020.100559,SoftwareX,2,Andrew P. Isaac
+10.1016/j.softx.2020.100559,SoftwareX,3,Luke Zappia
+10.1016/j.softx.2020.100559,SoftwareX,4,Richard A.J. O’Hair
+10.1016/j.softx.2020.100559,SoftwareX,5,William A. Donald
+10.1016/j.softx.2020.100559,SoftwareX,6,Bernard J. Pope
+10.1016/j.softx.2020.100557,SoftwareX,1,Kyriakos Panagiotidis
+10.1016/j.softx.2020.100557,SoftwareX,2,Naoum Tsolakis
+10.1016/j.softx.2020.100557,SoftwareX,3,Alexander Tsigkas
+10.1016/j.softx.2020.100491,SoftwareX,1,Ilia Bautista
+10.1016/j.softx.2020.100491,SoftwareX,2,Sudeep Sarkar
+10.1016/j.softx.2020.100491,SoftwareX,3,Sanjukta Bhanja
+10.1016/j.softx.2020.100561,SoftwareX,1,William F. Godoy
+10.1016/j.softx.2020.100561,SoftwareX,2,Norbert Podhorszki
+10.1016/j.softx.2020.100561,SoftwareX,3,Ruonan Wang
+10.1016/j.softx.2020.100561,SoftwareX,4,Chuck Atkins
+10.1016/j.softx.2020.100561,SoftwareX,5,Greg Eisenhauer
+10.1016/j.softx.2020.100561,SoftwareX,6,Junmin Gu
+10.1016/j.softx.2020.100561,SoftwareX,7,Philip Davis
+10.1016/j.softx.2020.100561,SoftwareX,8,Jong Choi
+10.1016/j.softx.2020.100561,SoftwareX,9,Kai Germaschewski
+10.1016/j.softx.2020.100561,SoftwareX,10,Kevin Huck
+10.1016/j.softx.2020.100561,SoftwareX,11,Axel Huebl
+10.1016/j.softx.2020.100561,SoftwareX,12,Mark Kim
+10.1016/j.softx.2020.100561,SoftwareX,13,James Kress
+10.1016/j.softx.2020.100561,SoftwareX,14,Tahsin Kurc
+10.1016/j.softx.2020.100561,SoftwareX,15,Qing Liu
+10.1016/j.softx.2020.100561,SoftwareX,16,Jeremy Logan
+10.1016/j.softx.2020.100561,SoftwareX,17,Kshitij Mehta
+10.1016/j.softx.2020.100561,SoftwareX,18,George Ostrouchov
+10.1016/j.softx.2020.100561,SoftwareX,19,Manish Parashar
+10.1016/j.softx.2020.100561,SoftwareX,20,Franz Poeschel
+10.1016/j.softx.2020.100561,SoftwareX,21,David Pugmire
+10.1016/j.softx.2020.100561,SoftwareX,22,Eric Suchyta
+10.1016/j.softx.2020.100561,SoftwareX,23,Keichi Takahashi
+10.1016/j.softx.2020.100561,SoftwareX,24,Nick Thompson
+10.1016/j.softx.2020.100561,SoftwareX,25,Seiji Tsutsumi
+10.1016/j.softx.2020.100561,SoftwareX,26,Lipeng Wan
+10.1016/j.softx.2020.100561,SoftwareX,27,Matthew Wolf
+10.1016/j.softx.2020.100561,SoftwareX,28,Kesheng Wu
+10.1016/j.softx.2020.100561,SoftwareX,29,Scott Klasky
+10.1016/j.softx.2020.100579,SoftwareX,1,Bruno Blais
+10.1016/j.softx.2020.100579,SoftwareX,2,Lucka Barbeau
+10.1016/j.softx.2020.100579,SoftwareX,3,Valérie Bibeau
+10.1016/j.softx.2020.100579,SoftwareX,4,Simon Gauvin
+10.1016/j.softx.2020.100579,SoftwareX,5,Toni El Geitani
+10.1016/j.softx.2020.100579,SoftwareX,6,Shahab Golshan
+10.1016/j.softx.2020.100579,SoftwareX,7,Rajeshwari Kamble
+10.1016/j.softx.2020.100579,SoftwareX,8,Ghazaleh Mirakhori
+10.1016/j.softx.2020.100579,SoftwareX,9,Jamal Chaouki
+10.1016/j.softx.2020.100569,SoftwareX,1,Michele Castelluzzo
+10.1016/j.softx.2020.100569,SoftwareX,2,Alessio Perinelli
+10.1016/j.softx.2020.100569,SoftwareX,3,Simone Detassis
+10.1016/j.softx.2020.100569,SoftwareX,4,Michela Alessandra Denti
+10.1016/j.softx.2020.100569,SoftwareX,5,Leonardo Ricci
+10.1016/j.softx.2020.100567,SoftwareX,1,Cristian Jimenez
+10.1016/j.softx.2020.100567,SoftwareX,2,Iván Amaya
+10.1016/j.softx.2020.100567,SoftwareX,3,Rodrigo Correa
+10.1016/j.softx.2020.100563,SoftwareX,1,Federico Tartarini
+10.1016/j.softx.2020.100563,SoftwareX,2,Stefano Schiavon
+10.1016/j.softx.2020.100563,SoftwareX,3,Toby Cheung
+10.1016/j.softx.2020.100563,SoftwareX,4,Tyler Hoyt
+10.1016/j.softx.2020.100584,SoftwareX,1,Matthew P. Conlin
+10.1016/j.softx.2020.100584,SoftwareX,2,Peter N. Adams
+10.1016/j.softx.2020.100584,SoftwareX,3,Benjamin Wilkinson
+10.1016/j.softx.2020.100584,SoftwareX,4,Gregory Dusek
+10.1016/j.softx.2020.100584,SoftwareX,5,Margaret L. Palmsten
+10.1016/j.softx.2020.100584,SoftwareX,6,Jenna A. Brown
+10.1016/j.softx.2020.100576,SoftwareX,1,Michael Adams
+10.1016/j.softx.2020.100576,SoftwareX,2,Andreas V. Hense
+10.1016/j.softx.2020.100576,SoftwareX,3,Arthur H.M. ter Hofstede
+10.1016/j.softx.2020.100600,SoftwareX,1,Jakob Lass
+10.1016/j.softx.2020.100600,SoftwareX,2,Henrik Jacobsen
+10.1016/j.softx.2020.100600,SoftwareX,3,Daniel G. Mazzone
+10.1016/j.softx.2020.100600,SoftwareX,4,Kim Lefmann
+10.1016/j.softx.2020.100599,SoftwareX,1,Simone Cirani
+10.1016/j.softx.2020.100599,SoftwareX,2,Marco Picone
+10.1016/j.softx.2020.100599,SoftwareX,3,Luca Veltri
+10.1016/j.softx.2020.100599,SoftwareX,4,Luca Zaccomer
+10.1016/j.softx.2020.100599,SoftwareX,5,Francesco Zanichelli
+10.1016/j.softx.2020.100597,SoftwareX,1,Adrian Linsel
+10.1016/j.softx.2020.100597,SoftwareX,2,Kristian Bär
+10.1016/j.softx.2020.100597,SoftwareX,3,Joshua Haas
+10.1016/j.softx.2020.100597,SoftwareX,4,Jens Hornung
+10.1016/j.softx.2020.100597,SoftwareX,5,Matthias D. Greb
+10.1016/j.softx.2020.100597,SoftwareX,6,Matthias Hinderer
+10.1016/j.softx.2020.100594,SoftwareX,1,Sofya Kulikova
+10.1016/j.softx.2020.100591,SoftwareX,1,Lars Hertel
+10.1016/j.softx.2020.100591,SoftwareX,2,Julian Collado
+10.1016/j.softx.2020.100591,SoftwareX,3,Peter Sadowski
+10.1016/j.softx.2020.100591,SoftwareX,4,Jordan Ott
+10.1016/j.softx.2020.100591,SoftwareX,5,Pierre Baldi
+10.1016/j.softx.2020.100590,SoftwareX,1,Alexandre Decan
+10.1016/j.softx.2020.100590,SoftwareX,2,Tom Mens
+10.1016/j.softx.2020.100595,SoftwareX,1,Kenneth A. Hart
+10.1016/j.softx.2020.100595,SoftwareX,2,Julian J. Rimoli
+10.1016/j.softx.2020.100587,SoftwareX,1,Jérôme Degallaix
+10.1016/j.softx.2020.100605,SoftwareX,1,L. van Kessel
+10.1016/j.softx.2020.100605,SoftwareX,2,C.W. Hagen
+10.1016/j.softx.2020.100601,SoftwareX,1,Juan Martínez-Franco
+10.1016/j.softx.2020.100601,SoftwareX,2,Edgar Céspedes-Sabogal
+10.1016/j.softx.2020.100601,SoftwareX,3,David Álvarez-Martínez
+10.1016/j.softx.2020.100604,SoftwareX,1,Guilherme Lindner
+10.1016/j.softx.2020.100604,SoftwareX,2,Yann Devaux
+10.1016/j.softx.2020.100604,SoftwareX,3,Sanja Miskovic
+10.1016/j.softx.2020.100608,SoftwareX,1,Gijs van den Oord
+10.1016/j.softx.2020.100608,SoftwareX,2,Fredrik Jansson
+10.1016/j.softx.2020.100608,SoftwareX,3,Inti Pelupessy
+10.1016/j.softx.2020.100608,SoftwareX,4,Maria Chertova
+10.1016/j.softx.2020.100608,SoftwareX,5,Johanna H. Grönqvist
+10.1016/j.softx.2020.100608,SoftwareX,6,Pier Siebesma
+10.1016/j.softx.2020.100608,SoftwareX,7,Daan Crommelin
+10.1016/j.softx.2020.100609,SoftwareX,1,Nan-Hung Hsieh
+10.1016/j.softx.2020.100609,SoftwareX,2,Brad Reisfeld
+10.1016/j.softx.2020.100609,SoftwareX,3,Weihsueh A. Chiu
+10.1016/j.softx.2020.100611,SoftwareX,1,Jan Wilhelm Gärtner
+10.1016/j.softx.2020.100611,SoftwareX,2,Andreas Kronenburg
+10.1016/j.softx.2020.100611,SoftwareX,3,Tobias Martin
+10.1016/j.softx.2020.100607,SoftwareX,1,Ahmed Elkady
+10.1016/j.softx.2020.100607,SoftwareX,2,Dimitrios G. Lignos
+10.1016/j.softx.2020.100606,SoftwareX,1,João Victor da Silva Guerra
+10.1016/j.softx.2020.100606,SoftwareX,2,Helder Veras Ribeiro Filho
+10.1016/j.softx.2020.100606,SoftwareX,3,Leandro Oliveira Bortot
+10.1016/j.softx.2020.100606,SoftwareX,4,Rodrigo Vargas Honorato
+10.1016/j.softx.2020.100606,SoftwareX,5,José Geraldo de Carvalho Pereira
+10.1016/j.softx.2020.100606,SoftwareX,6,Paulo Sérgio Lopes-de-Oliveira
+10.1016/j.softx.2020.100614,SoftwareX,1,Claudio Lucchese
+10.1016/j.softx.2020.100614,SoftwareX,2,Cristina Ioana Muntean
+10.1016/j.softx.2020.100614,SoftwareX,3,Franco Maria Nardini
+10.1016/j.softx.2020.100614,SoftwareX,4,Raffaele Perego
+10.1016/j.softx.2020.100614,SoftwareX,5,Salvatore Trani
+10.1016/j.softx.2020.100615,SoftwareX,1,Spencer H. Bryngelson
+10.1016/j.softx.2020.100615,SoftwareX,2,Tim Colonius
+10.1016/j.softx.2020.100615,SoftwareX,3,Rodney O. Fox
+10.1016/j.softx.2020.100618,SoftwareX,1,Maksym Dosta
+10.1016/j.softx.2020.100618,SoftwareX,2,Vasyl Skorych
+10.1016/j.softx.2020.100626,SoftwareX,1,C. Meijer
+10.1016/j.softx.2020.100626,SoftwareX,2,M.W. Grootes
+10.1016/j.softx.2020.100626,SoftwareX,3,Z. Koma
+10.1016/j.softx.2020.100626,SoftwareX,4,Y. Dzigan
+10.1016/j.softx.2020.100626,SoftwareX,5,R. Gonçalves
+10.1016/j.softx.2020.100626,SoftwareX,6,B. Andela
+10.1016/j.softx.2020.100626,SoftwareX,7,G. van den Oord
+10.1016/j.softx.2020.100626,SoftwareX,8,E. Ranguelova
+10.1016/j.softx.2020.100626,SoftwareX,9,N. Renaud
+10.1016/j.softx.2020.100626,SoftwareX,10,W.D. Kissling
+10.1016/j.softx.2020.100625,SoftwareX,1,Laurent Capocchi
+10.1016/j.softx.2020.100625,SoftwareX,2,Jean-Francois Santucci
+10.1016/j.softx.2020.100624,SoftwareX,1,Nathan Fox
+10.1016/j.softx.2020.100624,SoftwareX,2,Tom August
+10.1016/j.softx.2020.100624,SoftwareX,3,Francesca Mancini
+10.1016/j.softx.2020.100624,SoftwareX,4,Katherine E. Parks
+10.1016/j.softx.2020.100624,SoftwareX,5,Felix Eigenbrod
+10.1016/j.softx.2020.100624,SoftwareX,6,James M. Bullock
+10.1016/j.softx.2020.100624,SoftwareX,7,Louis Sutter
+10.1016/j.softx.2020.100624,SoftwareX,8,Laura J. Graham
+10.1016/j.softx.2020.100623,SoftwareX,1,Luka Čehovin Zajc
+10.1016/j.softx.2020.100628,SoftwareX,1,Jorge M. Cruz-Duarte
+10.1016/j.softx.2020.100628,SoftwareX,2,Ivan Amaya
+10.1016/j.softx.2020.100628,SoftwareX,3,José C. Ortiz-Bayliss
+10.1016/j.softx.2020.100628,SoftwareX,4,Hugo Terashima-Marín
+10.1016/j.softx.2020.100628,SoftwareX,5,Yong Shi
+10.1016/j.softx.2020.100629,SoftwareX,1,R. Siddharth
+10.1016/j.softx.2020.100629,SoftwareX,2,G. Aghila
+10.1016/j.softx.2020.100632,SoftwareX,1,Ahmed Sleem
+10.1016/j.softx.2020.100632,SoftwareX,2,Mohamed Abdel-Baset
+10.1016/j.softx.2020.100632,SoftwareX,3,Ibrahim El-henawy
+10.1016/j.softx.2020.100637,SoftwareX,1,G. Luciano
+10.1016/j.softx.2020.100637,SoftwareX,2,K.H. Liland
+10.1016/j.softx.2020.100637,SoftwareX,3,M. Marsotto
+10.1016/j.softx.2020.100637,SoftwareX,4,R. Svoboda
+10.1016/j.softx.2020.100637,SoftwareX,5,S. Berretta
+10.1016/j.softx.2020.100639,SoftwareX,1,Nicolas Pilia
+10.1016/j.softx.2020.100639,SoftwareX,2,Claudia Nagel
+10.1016/j.softx.2020.100639,SoftwareX,3,Gustavo Lenis
+10.1016/j.softx.2020.100639,SoftwareX,4,Silvia Becker
+10.1016/j.softx.2020.100639,SoftwareX,5,Olaf Dössel
+10.1016/j.softx.2020.100639,SoftwareX,6,Axel Loewe
+10.1016/j.softx.2020.100643,SoftwareX,1,Sergio Cantero-Chinchilla
+10.1016/j.softx.2020.100643,SoftwareX,2,James L. Beck
+10.1016/j.softx.2020.100643,SoftwareX,3,Juan Chiachío
+10.1016/j.softx.2020.100643,SoftwareX,4,Manuel Chiachío
+10.1016/j.softx.2020.100643,SoftwareX,5,Dimitrios Chronopoulos
+10.1016/j.softx.2020.100641,SoftwareX,1,Victoria B. Stephens
+10.1016/j.softx.2020.100641,SoftwareX,2,David O. Lignell
+10.1016/j.softx.2020.100646,SoftwareX,1,Sebastian Blauth
+10.1016/j.softx.2020.100645,SoftwareX,1,Partha Pratim Das
+10.1016/j.softx.2020.100645,SoftwareX,2,Muthu Ram Prabhu Elenchezhian
+10.1016/j.softx.2020.100645,SoftwareX,3,Vamsee Vadlamudi
+10.1016/j.softx.2020.100645,SoftwareX,4,Kenneth Reifsnider
+10.1016/j.softx.2020.100645,SoftwareX,5,Rassel Raihan
+10.1016/j.softx.2020.100646,SoftwareX,1,Sebastian Blauth
+10.1016/j.softx.2020.100647,SoftwareX,1,Anton Kasprzhitskii
+10.1016/j.softx.2020.100647,SoftwareX,2,Georgy Lazorenko
+10.1016/j.softx.2020.100647,SoftwareX,3,Victor Yavna
+10.1016/j.softx.2020.100653,SoftwareX,1,Marcos Nieto
+10.1016/j.softx.2020.100653,SoftwareX,2,Orti Senderos
+10.1016/j.softx.2020.100653,SoftwareX,3,Oihana Otaegui
+10.1016/j.softx.2020.100652,SoftwareX,1,Parsa Omidi
+10.1016/j.softx.2020.100652,SoftwareX,2,Lawrence C.M. Yip
+10.1016/j.softx.2020.100652,SoftwareX,3,Hui Wang
+10.1016/j.softx.2020.100652,SoftwareX,4,Mamadou Diop
+10.1016/j.softx.2020.100652,SoftwareX,5,Jeffrey J.L. Carson
+10.1016/j.softx.2020.100651,SoftwareX,1,Nicolò Grilli
+10.1016/j.softx.2020.100651,SoftwareX,2,Edmund Tarleton
+10.1016/j.softx.2020.100651,SoftwareX,3,Alan C.F. Cocks
+10.1016/j.softx.2021.100661,SoftwareX,1,Marco Picone
+10.1016/j.softx.2021.100661,SoftwareX,2,Marco Mamei
+10.1016/j.softx.2021.100661,SoftwareX,3,Franco Zambonelli
+10.1016/j.softx.2021.100657,SoftwareX,1,Duncan M. Macleod
+10.1016/j.softx.2021.100657,SoftwareX,2,Joseph S. Areeda
+10.1016/j.softx.2021.100657,SoftwareX,3,Scott B. Coughlin
+10.1016/j.softx.2021.100657,SoftwareX,4,Thomas J. Massinger
+10.1016/j.softx.2021.100657,SoftwareX,5,Alexander L. Urban
+10.1016/j.softx.2021.100659,SoftwareX,1,Krzysztof Ciomek
+10.1016/j.softx.2021.100659,SoftwareX,2,Miłosz Kadziński
+10.1016/j.softx.2021.100660,SoftwareX,1,Matthew Milton
+10.1016/j.softx.2021.100660,SoftwareX,2,Andrea Benigni
+10.1016/j.softx.2021.100662,SoftwareX,1,Şuayb Ş. Arslan
+10.1016/j.softx.2021.100663,SoftwareX,1,Aravind Krishnamoorthy
+10.1016/j.softx.2021.100663,SoftwareX,2,Ankit Mishra
+10.1016/j.softx.2021.100663,SoftwareX,3,Deepak Kamal
+10.1016/j.softx.2021.100663,SoftwareX,4,Sungwook Hong
+10.1016/j.softx.2021.100663,SoftwareX,5,Ken-ichi Nomura
+10.1016/j.softx.2021.100663,SoftwareX,6,Subodh Tiwari
+10.1016/j.softx.2021.100663,SoftwareX,7,Aiichiro Nakano
+10.1016/j.softx.2021.100663,SoftwareX,8,Rajiv Kalia
+10.1016/j.softx.2021.100663,SoftwareX,9,Rampi Ramprasad
+10.1016/j.softx.2021.100663,SoftwareX,10,Priya Vashishta
+10.1016/j.softx.2021.100664,SoftwareX,1,John Taylor Chavis
+10.1016/j.softx.2021.100664,SoftwareX,2,Amy Louise Cochran
+10.1016/j.softx.2021.100664,SoftwareX,3,Christopher James Earls
+10.1016/j.softx.2021.100665,SoftwareX,1,Michael Julian Orella
+10.1016/j.softx.2021.100665,SoftwareX,2,McLain Evan Leonard
+10.1016/j.softx.2021.100665,SoftwareX,3,Yuriy Román-Leshkov
+10.1016/j.softx.2021.100665,SoftwareX,4,Fikile Richard Brushett
+10.1016/j.softx.2021.100675,SoftwareX,1,Artur Karczmarczyk
+10.1016/j.softx.2021.100675,SoftwareX,2,Jarosław Jankowski
+10.1016/j.softx.2021.100675,SoftwareX,3,Jarosław Wątróbski
+10.1016/j.softx.2021.100674,SoftwareX,1,Lucas Dominguez Ruben
+10.1016/j.softx.2021.100674,SoftwareX,2,Kensuke Naito
+10.1016/j.softx.2021.100674,SoftwareX,3,Ronald Roger Gutierrez
+10.1016/j.softx.2021.100674,SoftwareX,4,Ricardo Szupiany
+10.1016/j.softx.2021.100674,SoftwareX,5,Jorge Darwin Abad
+10.1016/j.softx.2021.100682,SoftwareX,1,Adam Mertel
+10.1016/j.softx.2021.100682,SoftwareX,2,David Zbíral
+10.1016/j.softx.2021.100682,SoftwareX,3,Zdeněk Stachoň
+10.1016/j.softx.2021.100682,SoftwareX,4,Hana Hořínková
+10.1016/j.softx.2021.100689,SoftwareX,1,Nazmus Sakib
+10.1016/j.softx.2021.100689,SoftwareX,2,Shiyu Tian
+10.1016/j.softx.2021.100689,SoftwareX,3,Md Munirul Haque
+10.1016/j.softx.2021.100689,SoftwareX,4,Rumi Ahmed Khan
+10.1016/j.softx.2021.100689,SoftwareX,5,Sheikh Iqbal Ahamed
+10.1016/j.softx.2021.100694,SoftwareX,1,Filipe Assunção
+10.1016/j.softx.2021.100694,SoftwareX,2,Nuno Lourenço
+10.1016/j.softx.2021.100694,SoftwareX,3,Bernardete Ribeiro
+10.1016/j.softx.2021.100694,SoftwareX,4,Penousal Machado
+10.1016/j.softx.2021.100691,SoftwareX,1,Nikolaos Batalas
+10.1016/j.softx.2021.100691,SoftwareX,2,Vassilis-Javed Khan
+10.1016/j.softx.2021.100691,SoftwareX,3,Panos Markopoulos
+10.1016/j.softx.2021.100692,SoftwareX,1,Sebastian Deorowicz
+10.1016/j.softx.2021.100692,SoftwareX,2,Adam Gudyś
+10.1016/j.softx.2021.100693,SoftwareX,1,Laura Sani
+10.1016/j.softx.2021.100693,SoftwareX,2,Michele Amoretti
+10.1016/j.softx.2021.100693,SoftwareX,3,Stefano Cagnoni
+10.1016/j.softx.2021.100693,SoftwareX,4,Monica Mordonini
+10.1016/j.softx.2021.100693,SoftwareX,5,Riccardo Pecori
+10.1016/j.softx.2021.100699,SoftwareX,1,Andrew Lyden
+10.1016/j.softx.2021.100699,SoftwareX,2,Graeme Flett
+10.1016/j.softx.2021.100699,SoftwareX,3,Paul G. Tuohy
+10.1016/j.softx.2021.100701,SoftwareX,1,Osezua Ibhadode
+10.1016/j.softx.2021.100701,SoftwareX,2,Zhidong Zhang
+10.1016/j.softx.2021.100701,SoftwareX,3,Ali Bonakdar
+10.1016/j.softx.2021.100701,SoftwareX,4,Ehsan Toyserkani
+10.1016/j.softx.2021.100696,SoftwareX,1,Connor Powers
+10.1016/j.softx.2021.100696,SoftwareX,2,Lindsay Bassman
+10.1016/j.softx.2021.100696,SoftwareX,3,Thomas M. Linker
+10.1016/j.softx.2021.100696,SoftwareX,4,Ken-ichi Nomura
+10.1016/j.softx.2021.100696,SoftwareX,5,Sahil Gulania
+10.1016/j.softx.2021.100696,SoftwareX,6,Rajiv K. Kalia
+10.1016/j.softx.2021.100696,SoftwareX,7,Aiichiro Nakano
+10.1016/j.softx.2021.100696,SoftwareX,8,Priya Vashishta
+10.1016/j.softx.2021.100711,SoftwareX,1,Francisco Ortin
+10.1016/j.softx.2021.100711,SoftwareX,2,Javier Escalada
+10.1016/j.softx.2021.100712,SoftwareX,1,Carlos Melchor-Placencia
+10.1016/j.softx.2021.100712,SoftwareX,2,Christian Málaga-Chuquitaype
+10.1016/j.softx.2021.100709,SoftwareX,1,Qimen Xu
+10.1016/j.softx.2021.100709,SoftwareX,2,Abhiraj Sharma
+10.1016/j.softx.2021.100709,SoftwareX,3,Benjamin Comer
+10.1016/j.softx.2021.100709,SoftwareX,4,Hua Huang
+10.1016/j.softx.2021.100709,SoftwareX,5,Edmond Chow
+10.1016/j.softx.2021.100709,SoftwareX,6,Andrew J. Medford
+10.1016/j.softx.2021.100709,SoftwareX,7,John E. Pask
+10.1016/j.softx.2021.100709,SoftwareX,8,Phanish Suryanarayana
+10.1016/j.softx.2021.100707,SoftwareX,1,Anton Afanasyev
+10.1016/j.softx.2021.100707,SoftwareX,2,Mauro Bianco
+10.1016/j.softx.2021.100707,SoftwareX,3,Lukas Mosimann
+10.1016/j.softx.2021.100707,SoftwareX,4,Carlos Osuna
+10.1016/j.softx.2021.100707,SoftwareX,5,Felix Thaler
+10.1016/j.softx.2021.100707,SoftwareX,6,Hannes Vogt
+10.1016/j.softx.2021.100707,SoftwareX,7,Oliver Fuhrer
+10.1016/j.softx.2021.100707,SoftwareX,8,Joost VandeVondele
+10.1016/j.softx.2021.100707,SoftwareX,9,Thomas C. Schulthess
+10.1016/j.softx.2021.100706,SoftwareX,1,Ali Haidar
+10.1016/j.softx.2021.100706,SoftwareX,2,Matthew Field
+10.1016/j.softx.2021.100706,SoftwareX,3,Jonathan Sykes
+10.1016/j.softx.2021.100706,SoftwareX,4,Martin Carolan
+10.1016/j.softx.2021.100706,SoftwareX,5,Lois Holloway
+10.1016/j.softx.2021.100729,SoftwareX,1,James Le Houx
+10.1016/j.softx.2021.100729,SoftwareX,2,Denis Kramer
+10.1016/j.softx.2021.100728,SoftwareX,1,Douglas Kurrant
+10.1016/j.softx.2021.100728,SoftwareX,2,Nasim Abdollahi
+10.1016/j.softx.2021.100728,SoftwareX,3,Muhammad Omer
+10.1016/j.softx.2021.100728,SoftwareX,4,Pedram Mojabi
+10.1016/j.softx.2021.100728,SoftwareX,5,Elise Fear
+10.1016/j.softx.2021.100728,SoftwareX,6,Joe LoVetri
+10.1016/j.softx.2021.100747,SoftwareX,1,José Daniel Lara
+10.1016/j.softx.2021.100747,SoftwareX,2,Clayton Barrows
+10.1016/j.softx.2021.100747,SoftwareX,3,Daniel Thom
+10.1016/j.softx.2021.100747,SoftwareX,4,Dheepak Krishnamurthy
+10.1016/j.softx.2021.100747,SoftwareX,5,Duncan Callaway
+10.1016/j.softx.2021.100722,SoftwareX,1,Marek Gagolewski
+10.1016/j.softx.2021.100720,SoftwareX,1,Jonas Lynge Vishart
+10.1016/j.softx.2021.100720,SoftwareX,2,Jaime Castillo-León
+10.1016/j.softx.2021.100720,SoftwareX,3,Winnie E. Svendsen
+10.1016/j.softx.2021.100725,SoftwareX,1,Abanti Shama Afroz
+10.1016/j.softx.2021.100725,SoftwareX,2,Francesco Inglese
+10.1016/j.softx.2021.100725,SoftwareX,3,Cesare Stefanini
+10.1016/j.softx.2021.100725,SoftwareX,4,Mario Milazzo
+10.1016/j.softx.2021.100733,SoftwareX,1,Łukasz Szeremeta
+10.1016/j.softx.2021.100733,SoftwareX,2,Dominik Tomaszuk
+10.1016/j.softx.2021.100703,SoftwareX,1,Paul L. Raston
+10.1016/j.softx.2021.100717,SoftwareX,1,Marco Conoscenti
+10.1016/j.softx.2021.100717,SoftwareX,2,Antonio Vetrò
+10.1016/j.softx.2021.100717,SoftwareX,3,Juan Carlos De Martin
+10.1016/j.softx.2021.100735,SoftwareX,1,Vasileios Angelidakis
+10.1016/j.softx.2021.100735,SoftwareX,2,Sadegh Nadimi
+10.1016/j.softx.2021.100735,SoftwareX,3,Masahide Otsubo
+10.1016/j.softx.2021.100735,SoftwareX,4,Stefano Utili
+10.1016/j.softx.2021.100741,SoftwareX,1,Oliver Melchert
+10.1016/j.softx.2021.100741,SoftwareX,2,Ayhan Demircan
+10.1016/j.softx.2021.100743,SoftwareX,1,Christoph Kawan
+10.1016/j.softx.2021.100743,SoftwareX,2,Sigurdur Freyr Hafstein
+10.1016/j.softx.2021.100743,SoftwareX,3,Peter Giesl
+10.1016/j.softx.2021.100745,SoftwareX,1,Luis Cabañero-Gomez
+10.1016/j.softx.2021.100745,SoftwareX,2,Ramon Hervas
+10.1016/j.softx.2021.100745,SoftwareX,3,Ivan Gonzalez
+10.1016/j.softx.2021.100745,SoftwareX,4,Luis Rodriguez-Benitez
+10.1016/j.softx.2021.100751,SoftwareX,1,Md Motiur Rahman
+10.1016/j.softx.2021.100751,SoftwareX,2,Tahmina Tasnim Nahar
+10.1016/j.softx.2021.100751,SoftwareX,3,Dookie Kim
+10.1016/j.softx.2021.100739,SoftwareX,1,Alessandro Sebastianelli
+10.1016/j.softx.2021.100739,SoftwareX,2,Maria Pia Del Rosso
+10.1016/j.softx.2021.100739,SoftwareX,3,Silvia Liberata Ullo
+10.1016/j.softx.2021.100761,SoftwareX,1,Luan Vinícius Fiorio
+10.1016/j.softx.2021.100761,SoftwareX,2,Chrystian Lenon Remes
+10.1016/j.softx.2021.100761,SoftwareX,3,Yales Rômulo de Novaes
+10.1016/j.softx.2021.100757,SoftwareX,1,Benjamin O’Driscoll
+10.1016/j.softx.2021.100765,SoftwareX,1,Charlie Hoy
+10.1016/j.softx.2021.100765,SoftwareX,2,Vivien Raymond
+10.1016/j.softx.2021.100767,SoftwareX,1,Néstor Rodríguez
+10.1016/j.softx.2021.100767,SoftwareX,2,David López
+10.1016/j.softx.2021.100767,SoftwareX,3,Alberto Fernández
+10.1016/j.softx.2021.100767,SoftwareX,4,Salvador García
+10.1016/j.softx.2021.100767,SoftwareX,5,Francisco Herrera
+10.1016/j.softx.2021.100771,SoftwareX,1,Kostas Cheliotis
+10.1016/j.softx.2021.100775,SoftwareX,1,Joseph C. Ferguson
+10.1016/j.softx.2021.100775,SoftwareX,2,Federico Semeraro
+10.1016/j.softx.2021.100775,SoftwareX,3,John M. Thornton
+10.1016/j.softx.2021.100775,SoftwareX,4,Francesco Panerai
+10.1016/j.softx.2021.100775,SoftwareX,5,Arnaud Borner
+10.1016/j.softx.2021.100775,SoftwareX,6,Nagi N. Mansour
+10.1016/j.softx.2021.100777,SoftwareX,1,Artur André Almeida de Macedo Oliveira
+10.1016/j.softx.2021.100777,SoftwareX,2,Roberto Hirata
+10.1016/j.softx.2021.100779,SoftwareX,1,William C. Schneck
+10.1016/j.softx.2021.100779,SoftwareX,2,Erik L. Frankforter
+10.1016/j.softx.2021.100779,SoftwareX,3,Elizabeth D. Gregory
+10.1016/j.softx.2021.100789,SoftwareX,1,Taufeq Mohammed Razakh
+10.1016/j.softx.2021.100789,SoftwareX,2,Beibei Wang
+10.1016/j.softx.2021.100789,SoftwareX,3,Shane Jackson
+10.1016/j.softx.2021.100789,SoftwareX,4,Rajiv K. Kalia
+10.1016/j.softx.2021.100789,SoftwareX,5,Aiichiro Nakano
+10.1016/j.softx.2021.100789,SoftwareX,6,Ken-ichi Nomura
+10.1016/j.softx.2021.100789,SoftwareX,7,Priya Vashishta
+10.1016/j.softx.2021.100791,SoftwareX,1,Luca Carmignani
+10.1016/j.softx.2021.100801,SoftwareX,1,Chathika Gunaratne
+10.1016/j.softx.2021.100801,SoftwareX,2,Ivan Garibay
+10.1016/j.softx.2021.100797,SoftwareX,1,Dexter D. Antonio
+10.1016/j.softx.2021.100797,SoftwareX,2,Jiawei Guo
+10.1016/j.softx.2021.100797,SoftwareX,3,Sam J. Holton
+10.1016/j.softx.2021.100797,SoftwareX,4,Ambarish R. Kulkarni
+10.1016/j.softx.2021.100795,SoftwareX,1,Sang-Kyu Jung
+10.1016/j.softx.2021.100805,SoftwareX,1,Siqin Meng
+10.1016/j.softx.2021.100805,SoftwareX,2,Zhendong Fu
+10.1016/j.softx.2021.100805,SoftwareX,3,Jianfei Qin
+10.1016/j.softx.2021.100805,SoftwareX,4,Xiaobai Ma
+10.1016/j.softx.2021.100805,SoftwareX,5,Yuqing Li
+10.1016/j.softx.2021.100805,SoftwareX,6,Lijie Hao
+10.1016/j.softx.2021.100805,SoftwareX,7,Yuntao Liu
+10.1016/j.softx.2021.100805,SoftwareX,8,Kai Sun
+10.1016/j.softx.2021.100805,SoftwareX,9,Dongfeng Chen
+10.1016/j.softx.2021.100823,SoftwareX,1,Arnout M.P. Boelens
+10.1016/j.softx.2021.100823,SoftwareX,2,Hamdi A. Tchelepi
+10.1016/j.softx.2021.100817,SoftwareX,1,Giovanni Ciatto
+10.1016/j.softx.2021.100817,SoftwareX,2,Roberta Calegari
+10.1016/j.softx.2021.100817,SoftwareX,3,Andrea Omicini
+10.1016/j.softx.2021.100815,SoftwareX,1,Victor Couty
+10.1016/j.softx.2021.100815,SoftwareX,2,Jean-François Witz
+10.1016/j.softx.2021.100815,SoftwareX,3,Pauline Lecomte-Grosbras
+10.1016/j.softx.2021.100815,SoftwareX,4,Julien Berthe
+10.1016/j.softx.2021.100815,SoftwareX,5,Eric Deletombe
+10.1016/j.softx.2021.100815,SoftwareX,6,Mathias Brieu
+10.1016/j.softx.2021.100814,SoftwareX,1,Aleksandr Podvesovskii
+10.1016/j.softx.2021.100814,SoftwareX,2,Alena Zakharova
+10.1016/j.softx.2021.100814,SoftwareX,3,Dmitriy Korostelyov
+10.1016/j.softx.2021.100814,SoftwareX,4,Aleksandr Kuzin
+10.1016/j.softx.2021.100835,SoftwareX,1,Alp Karakoç
+10.1016/j.softx.2021.100832,SoftwareX,1,Matthias Drvoderic
+10.1016/j.softx.2021.100832,SoftwareX,2,Matthias Rettl
+10.1016/j.softx.2021.100832,SoftwareX,3,Martin Pletz
+10.1016/j.softx.2021.100832,SoftwareX,4,Clara Schuecker
+10.1016/j.softx.2021.100834,SoftwareX,1,Bernard Giroux
+10.1016/j.softx.2021.100879,SoftwareX,1,Danjo De Chavez
+10.1016/j.softx.2021.100879,SoftwareX,2,Jun-ya Hasegawa
+10.1016/j.softx.2021.100877,SoftwareX,1,Stian Backe
+10.1016/j.softx.2021.100877,SoftwareX,2,Christian Skar
+10.1016/j.softx.2021.100877,SoftwareX,3,Pedro Crespo del Granado
+10.1016/j.softx.2021.100877,SoftwareX,4,Ozgu Turgut
+10.1016/j.softx.2021.100877,SoftwareX,5,Asgeir Tomasgard
+10.1016/j.softx.2021.100875,SoftwareX,1,Jean-Yves Colle
+10.1016/j.softx.2021.100875,SoftwareX,2,Jouni Rautio
+10.1016/j.softx.2021.100875,SoftwareX,3,Daniel Freis
+10.1016/j.softx.2021.100863,SoftwareX,1,Christoph Praschl
+10.1016/j.softx.2021.100863,SoftwareX,2,Andreas Pointner
+10.1016/j.softx.2021.100863,SoftwareX,3,David Baumgartner
+10.1016/j.softx.2021.100863,SoftwareX,4,Gerald Adam Zwettler
+10.1016/j.softx.2021.100873,SoftwareX,1,Bhoj Raj Ghimire
+10.1016/j.softx.2021.100873,SoftwareX,2,Rishi Ram Parajuli
+10.1016/j.softx.2021.100873,SoftwareX,3,Bipin Khatiwada
+10.1016/j.softx.2021.100873,SoftwareX,4,Shobha Poudel
+10.1016/j.softx.2021.100873,SoftwareX,5,Kusum Sharma
+10.1016/j.softx.2021.100873,SoftwareX,6,Bhogendra Mishra
+10.1016/j.softx.2021.100861,SoftwareX,1,Anton Plietzsch
+10.1016/j.softx.2021.100861,SoftwareX,2,Raphael Kogler
+10.1016/j.softx.2021.100861,SoftwareX,3,Sabine Auer
+10.1016/j.softx.2021.100861,SoftwareX,4,Julia Merino
+10.1016/j.softx.2021.100861,SoftwareX,5,Asier Gil-de-Muro
+10.1016/j.softx.2021.100861,SoftwareX,6,Jan Liße
+10.1016/j.softx.2021.100861,SoftwareX,7,Christina Vogel
+10.1016/j.softx.2021.100861,SoftwareX,8,Frank Hellmann
+10.1016/j.softx.2021.100871,SoftwareX,1,Leonard Göke
+10.1016/j.softx.2021.100869,SoftwareX,1,Dimitrios Michail
+10.1016/j.softx.2021.100865,SoftwareX,1,Gunratan Lonare
+10.1016/j.softx.2021.100865,SoftwareX,2,Bharat Patil
+10.1016/j.softx.2021.100865,SoftwareX,3,Nilesh Raut
+10.1016/j.softx.2021.100857,SoftwareX,1,Fabio Corradini
+10.1016/j.softx.2021.100857,SoftwareX,2,Nicolas Beriot
+10.1016/j.softx.2021.100857,SoftwareX,3,Esperanza Huerta-Lwanga
+10.1016/j.softx.2021.100857,SoftwareX,4,Violette Geissen
+10.1016/j.softx.2021.100851,SoftwareX,1,Mokbel Karam
+10.1016/j.softx.2021.100851,SoftwareX,2,Tony Saad
+10.1016/j.softx.2021.100848,SoftwareX,1,Victor Couty
+10.1016/j.softx.2021.100848,SoftwareX,2,Jean-François Witz
+10.1016/j.softx.2021.100848,SoftwareX,3,Corentin Martel
+10.1016/j.softx.2021.100848,SoftwareX,4,François Bari
+10.1016/j.softx.2021.100848,SoftwareX,5,Antoine Weisrock
+10.1016/j.softx.2021.100845,SoftwareX,1,Davide Stocco
+10.1016/j.softx.2021.100845,SoftwareX,2,Enrico Bertolazzi
+10.1016/j.softx.2021.100843,SoftwareX,1,Eurico Mesquita Noleto-Filho
+10.1016/j.softx.2021.100843,SoftwareX,2,Ronaldo Angelini
+10.1016/j.softx.2021.100843,SoftwareX,3,Jeroen Steenbeek
+10.1016/j.softx.2021.100843,SoftwareX,4,Adriana Rosa Carvalho
+10.1016/j.softx.2021.100841,SoftwareX,1,Krzysztof Gajowniczek
+10.1016/j.softx.2021.100841,SoftwareX,2,Tomasz Ząbkowski
+10.1016/j.softx.2021.100883,SoftwareX,1,Jorge Ribeiro
+10.1016/j.softx.2021.100883,SoftwareX,2,Pedro Lima
+10.1016/j.softx.2021.100883,SoftwareX,3,Francisco Nunes
+10.1016/j.softx.2021.100889,SoftwareX,1,Omar Montoya
+10.1016/j.softx.2021.100889,SoftwareX,2,Octavio Icasio-Hernández
+10.1016/j.softx.2021.100889,SoftwareX,3,Joaquín Salas
+10.1016/j.softx.2021.100895,SoftwareX,1,Fábio Pereira
+10.1016/j.softx.2021.100895,SoftwareX,2,Paul Crocker
+10.1016/j.softx.2021.100895,SoftwareX,3,Valderi R.Q. Leithardt
+10.1016/j.softx.2021.100893,SoftwareX,1,Mateusz Żarski
+10.1016/j.softx.2021.100893,SoftwareX,2,Bartosz Wójcik
+10.1016/j.softx.2021.100893,SoftwareX,3,Jarosław Adam Miszczak
+10.1016/j.softx.2021.100897,SoftwareX,1,Andrea Giuffre’
+10.1016/j.softx.2021.100897,SoftwareX,2,Matteo Pini
+10.1016/j.softx.2021.100892,SoftwareX,1,João R. Almeida
+10.1016/j.softx.2021.100892,SoftwareX,2,Leonardo Coelho
+10.1016/j.softx.2021.100892,SoftwareX,3,José L. Oliveira
+10.1016/j.softx.2021.100899,SoftwareX,1,Pier-Giovanni Taranti
+10.1016/j.softx.2021.100899,SoftwareX,2,Carlos Alberto Nunes Cosenza
+10.1016/j.softx.2021.100899,SoftwareX,3,Leonardo Antonio Monteiro Pessôa
+10.1016/j.softx.2021.100899,SoftwareX,4,Rodrigo Abrunhosa Collazo
+10.1016/j.softx.2021.100901,SoftwareX,1,Deshana Desai
+10.1016/j.softx.2021.100901,SoftwareX,2,Etai Shuchatowitz
+10.1016/j.softx.2021.100901,SoftwareX,3,Zhongshi Jiang
+10.1016/j.softx.2021.100901,SoftwareX,4,Teseo Schneider
+10.1016/j.softx.2021.100901,SoftwareX,5,Daniele Panozzo
+10.1016/j.softx.2021.100907,SoftwareX,1,Andrea Bragagnolo
+10.1016/j.softx.2021.100907,SoftwareX,2,Carlo Alberto Barbano
+10.1016/j.softx.2021.100903,SoftwareX,1,Evangelos Syrmos
+10.1016/j.softx.2021.100903,SoftwareX,2,Dimitrios Bechtsis
+10.1016/j.softx.2021.100903,SoftwareX,3,Naoum Tsolakis
+10.1016/j.softx.2021.100909,SoftwareX,1,Jacob Aubertine
+10.1016/j.softx.2021.100909,SoftwareX,2,Kenan Chen
+10.1016/j.softx.2021.100909,SoftwareX,3,Vidhyashree Nagaraju
+10.1016/j.softx.2021.100909,SoftwareX,4,Lance Fiondella
+10.1016/j.softx.2021.100911,SoftwareX,1,José A. Abell
+10.1016/j.softx.2021.100911,SoftwareX,2,Jorge G.F. Crempien
+10.1016/j.softx.2021.100911,SoftwareX,3,Matías Recabarren
+10.1016/j.softx.2021.100913,SoftwareX,1,Mikkel S. Bødker
+10.1016/j.softx.2021.100913,SoftwareX,2,Collin J. Wilkinson
+10.1016/j.softx.2021.100913,SoftwareX,3,John C. Mauro
+10.1016/j.softx.2021.100913,SoftwareX,4,Morten M. Smedskjaer
+10.1016/j.softx.2021.100915,SoftwareX,1,F.L.E. Usseglio-Viretta
+10.1016/j.softx.2021.100915,SoftwareX,2,P. Patel
+10.1016/j.softx.2021.100915,SoftwareX,3,E. Bernhardt
+10.1016/j.softx.2021.100915,SoftwareX,4,A. Mistry
+10.1016/j.softx.2021.100915,SoftwareX,5,P.P. Mukherjee
+10.1016/j.softx.2021.100915,SoftwareX,6,J. Allen
+10.1016/j.softx.2021.100915,SoftwareX,7,S.J. Cooper
+10.1016/j.softx.2021.100915,SoftwareX,8,J. Laurencin
+10.1016/j.softx.2021.100915,SoftwareX,9,K. Smith
+10.1016/j.softx.2021.100919,SoftwareX,1,Moncef Garouani
+10.1016/j.softx.2021.100919,SoftwareX,2,Adeel Ahmad
+10.1016/j.softx.2021.100919,SoftwareX,3,Mourad Bouneffa
+10.1016/j.softx.2021.100919,SoftwareX,4,Mohamed Hamlich
+10.1016/j.softx.2021.100921,SoftwareX,1,Oscar Araque
+10.1016/j.softx.2021.100921,SoftwareX,2,J. Fernando Sánchez-Rada
+10.1016/j.softx.2021.100921,SoftwareX,3,Carlos A. Iglesias
+10.1016/j.softx.2021.100917,SoftwareX,1,Muhammad M. Roomi
+10.1016/j.softx.2021.100917,SoftwareX,2,Wen Shei Ong
+10.1016/j.softx.2021.100917,SoftwareX,3,Daisuke Mashima
+10.1016/j.softx.2021.100917,SoftwareX,4,Suhail S.M. Hussain
+10.1016/j.softx.2021.100923,SoftwareX,1,Takashi Takekawa
+10.1016/j.softx.2021.100927,SoftwareX,1,Ahmed Elkady
+10.1016/j.softx.2021.100925,SoftwareX,1,Clara Antón-Fernández
+10.1016/j.softx.2021.100925,SoftwareX,2,Rasmus Astrup
+10.1016/j.softx.2021.100929,SoftwareX,1,Piotr Jurkiewicz
+10.1016/j.softx.2021.100931,SoftwareX,1,Davide Marelli
+10.1016/j.softx.2021.100931,SoftwareX,2,Simone Bianco
+10.1016/j.softx.2021.100931,SoftwareX,3,Gianluigi Ciocca
+10.1016/j.softx.2021.100933,SoftwareX,1,Li Dong
+10.1016/j.softx.2021.100933,SoftwareX,2,Yufan Zhang
+10.1016/j.softx.2021.100933,SoftwareX,3,Lingling Zhao
+10.1016/j.softx.2021.100933,SoftwareX,4,Ting Zheng
+10.1016/j.softx.2021.100933,SoftwareX,5,Weidong Wang
+10.1016/j.softx.2021.100933,SoftwareX,6,Jianfu Li
+10.1016/j.softx.2021.100933,SoftwareX,7,Diankun Gong
+10.1016/j.softx.2021.100933,SoftwareX,8,Tiejun Liu
+10.1016/j.softx.2021.100933,SoftwareX,9,Dezhong Yao
+10.1016/j.softx.2021.100935,SoftwareX,1,Christian A. Candela-Uribe
+10.1016/j.softx.2021.100935,SoftwareX,2,Luis E. Sepúlveda-Rodríguez
+10.1016/j.softx.2021.100935,SoftwareX,3,Julio C. Chavarro-Porras
+10.1016/j.softx.2021.100935,SoftwareX,4,John A. Sanabria-Ordoñez
+10.1016/j.softx.2021.100935,SoftwareX,5,José Luis Garrido
+10.1016/j.softx.2021.100935,SoftwareX,6,Carlos Rodríguez-Domínguez
+10.1016/j.softx.2021.100935,SoftwareX,7,Gabriel Guerrero-Contreras
+10.1016/j.softx.2021.100937,SoftwareX,1,Igor Krivenko
+10.1016/j.softx.2021.100937,SoftwareX,1,Igor Krivenko
+10.1016/j.softx.2021.100944,SoftwareX,1,Parichit Sharma
+10.1016/j.softx.2021.100944,SoftwareX,2,Hasan Kurban
+10.1016/j.softx.2021.100944,SoftwareX,3,Mehmet Dalkilic
+10.1016/j.softx.2021.100947,SoftwareX,1,Josef Spillner
+10.1016/j.softx.2021.100947,SoftwareX,2,Panagiotis Gkikopoulos
+10.1016/j.softx.2021.100947,SoftwareX,3,Pamela Delgado
+10.1016/j.softx.2021.100947,SoftwareX,4,Christine Choirat
+10.1016/j.softx.2021.100959,SoftwareX,1,Alberto Gomez
+10.1016/j.softx.2021.100959,SoftwareX,2,Veronika A. Zimmer
+10.1016/j.softx.2021.100959,SoftwareX,3,Gavin Wheeler
+10.1016/j.softx.2021.100959,SoftwareX,4,Nicolas Toussaint
+10.1016/j.softx.2021.100959,SoftwareX,5,Shujie Deng
+10.1016/j.softx.2021.100959,SoftwareX,6,Robert Wright
+10.1016/j.softx.2021.100959,SoftwareX,7,Emily Skelton
+10.1016/j.softx.2021.100959,SoftwareX,8,Jackie Matthew
+10.1016/j.softx.2021.100959,SoftwareX,9,Bernhard Kainz
+10.1016/j.softx.2021.100959,SoftwareX,10,Jo Hajnal
+10.1016/j.softx.2021.100959,SoftwareX,11,Julia Schnabel
+10.1016/j.softx.2021.100967,SoftwareX,1,Juha Kiviluoma
+10.1016/j.softx.2021.100967,SoftwareX,2,Fabiano Pallonetto
+10.1016/j.softx.2021.100967,SoftwareX,3,Manuel Marin
+10.1016/j.softx.2021.100967,SoftwareX,4,Pekka T. Savolainen
+10.1016/j.softx.2021.100967,SoftwareX,5,Antti Soininen
+10.1016/j.softx.2021.100967,SoftwareX,6,Per Vennström
+10.1016/j.softx.2021.100967,SoftwareX,7,Erkka Rinne
+10.1016/j.softx.2021.100967,SoftwareX,8,Jiangyi Huang
+10.1016/j.softx.2021.100967,SoftwareX,9,Iasonas Kouveliotis-Lysikatos
+10.1016/j.softx.2021.100967,SoftwareX,10,Maren Ihlemann
+10.1016/j.softx.2021.100967,SoftwareX,11,Erik Delarue
+10.1016/j.softx.2021.100967,SoftwareX,12,Ciara O’Dwyer
+10.1016/j.softx.2021.100967,SoftwareX,13,Terence O’Donnel
+10.1016/j.softx.2021.100967,SoftwareX,14,Mikael Amelin
+10.1016/j.softx.2021.100967,SoftwareX,15,Lennart Söder
+10.1016/j.softx.2021.100967,SoftwareX,16,Joseph Dillon
+10.1016/j.softx.2021.100965,SoftwareX,1,Fangzhou Xie
+10.1016/j.softx.2021.100964,SoftwareX,1,Tristan Langer
+10.1016/j.softx.2021.100964,SoftwareX,2,Richard Meyes
+10.1016/j.softx.2021.100964,SoftwareX,3,Tobias Meisen
+10.1016/j.softx.2021.100971,SoftwareX,1,Jonas Van Der Donckt
+10.1016/j.softx.2021.100971,SoftwareX,2,Jeroen Van Der Donckt
+10.1016/j.softx.2021.100971,SoftwareX,3,Emiel Deprost
+10.1016/j.softx.2021.100971,SoftwareX,4,Sofie Van Hoecke
+10.1016/j.softx.2021.100953,SoftwareX,1,Hendrik Kayser
+10.1016/j.softx.2021.100953,SoftwareX,2,Tobias Herzke
+10.1016/j.softx.2021.100953,SoftwareX,3,Paul Maanen
+10.1016/j.softx.2021.100953,SoftwareX,4,Max Zimmermann
+10.1016/j.softx.2021.100953,SoftwareX,5,Giso Grimm
+10.1016/j.softx.2021.100953,SoftwareX,6,Volker Hohmann
+10.1016/j.softx.2021.100956,SoftwareX,1,Kirill Muravyev
+10.1016/j.softx.2021.100956,SoftwareX,2,Andrey Bokovoy
+10.1016/j.softx.2021.100956,SoftwareX,3,Konstantin Yakovlev
+10.1016/j.softx.2021.100952,SoftwareX,1,Luca Buoncompagni
+10.1016/j.softx.2021.100952,SoftwareX,2,Syed Yusha Kareem
+10.1016/j.softx.2021.100952,SoftwareX,3,Fulvio Mastrogiovanni
+10.1016/j.softx.2021.100951,SoftwareX,1,Ivan Zubarev
+10.1016/j.softx.2021.100951,SoftwareX,2,Gavriela Vranou
+10.1016/j.softx.2021.100951,SoftwareX,3,Lauri Parkkonen
+10.1016/j.softx.2022.100973,SoftwareX,1,Zsolt T. Kosztyán
+10.1016/j.softx.2022.100995,SoftwareX,1,Anton Raskovalov
+10.1016/j.softx.2022.100995,SoftwareX,2,Platon Surkov
+10.1016/j.softx.2022.100997,SoftwareX,1,Alexandru Mara
+10.1016/j.softx.2022.100997,SoftwareX,2,Jefrey Lijffijt
+10.1016/j.softx.2022.100997,SoftwareX,3,Tijl De Bie
+10.1016/j.softx.2022.100993,SoftwareX,1,Ahmed Harmouche
+10.1016/j.softx.2022.100993,SoftwareX,2,Ferenc Kövér
+10.1016/j.softx.2022.100993,SoftwareX,3,Sándor Szukits
+10.1016/j.softx.2022.100993,SoftwareX,4,Tamás Dóczi
+10.1016/j.softx.2022.100993,SoftwareX,5,Péter Bogner
+10.1016/j.softx.2022.100993,SoftwareX,6,Arnold Tóth
+10.1016/j.softx.2022.100990,SoftwareX,1,Exneyder A. Montoya-Araque
+10.1016/j.softx.2022.100990,SoftwareX,2,A.J. Aparicio-Ortube
+10.1016/j.softx.2022.100990,SoftwareX,3,David G. Zapata-Medina
+10.1016/j.softx.2022.100990,SoftwareX,4,Luis G. Arboleda-Monsalve
+10.1016/j.softx.2022.100988,SoftwareX,1,Damian Frąszczak
+10.1016/j.softx.2022.100982,SoftwareX,1,Eric J. Ching
+10.1016/j.softx.2022.100982,SoftwareX,2,Brett Bornhoft
+10.1016/j.softx.2022.100982,SoftwareX,3,Ali Lasemi
+10.1016/j.softx.2022.100982,SoftwareX,4,Matthias Ihme
+10.1016/j.softx.2022.100985,SoftwareX,1,Andrés Soto
+10.1016/j.softx.2022.100985,SoftwareX,2,Héctor Mora
+10.1016/j.softx.2022.100985,SoftwareX,3,Jaime A. Riascos
+10.1016/j.softx.2022.101011,SoftwareX,1,Mohan Ananth
+10.1016/j.softx.2022.101011,SoftwareX,2,Mario F. Trujillo
+10.1016/j.softx.2022.101013,SoftwareX,1,Christoph W. Wagner
+10.1016/j.softx.2022.101013,SoftwareX,2,Sebastian Semper
+10.1016/j.softx.2022.101013,SoftwareX,3,Jan Kirchhof
+10.1016/j.softx.2022.101001,SoftwareX,1,Auralius Manurung
+10.1016/j.softx.2022.101001,SoftwareX,2,Lisa Kristiana
+10.1016/j.softx.2022.101001,SoftwareX,3,Nur Uddin
+10.1016/j.softx.2022.101017,SoftwareX,1,Jenny Farmer
+10.1016/j.softx.2022.101017,SoftwareX,2,Donald J. Jacobs
+10.1016/j.softx.2022.101016,SoftwareX,1,Jouni Helske
+10.1016/j.softx.2022.101019,SoftwareX,1,Akimitsu Ishii
+10.1016/j.softx.2022.101019,SoftwareX,2,Ryunosuke Kamijyo
+10.1016/j.softx.2022.101019,SoftwareX,3,Akinori Yamanaka
+10.1016/j.softx.2022.101019,SoftwareX,4,Akiyasu Yamamoto
+10.1016/j.softx.2022.101005,SoftwareX,1,Chloe Brimicombe
+10.1016/j.softx.2022.101005,SoftwareX,2,Claudia Di Napoli
+10.1016/j.softx.2022.101005,SoftwareX,3,Tiago Quintino
+10.1016/j.softx.2022.101005,SoftwareX,4,Florian Pappenberger
+10.1016/j.softx.2022.101005,SoftwareX,5,Rosalind Cornforth
+10.1016/j.softx.2022.101005,SoftwareX,6,Hannah L. Cloke
+10.1016/j.softx.2022.101030,SoftwareX,1,Deneb Boito
+10.1016/j.softx.2022.101030,SoftwareX,2,Magnus Herberthson
+10.1016/j.softx.2022.101030,SoftwareX,3,Tom Dela Haije
+10.1016/j.softx.2022.101030,SoftwareX,4,Evren Özarslan
+10.1016/j.softx.2022.101038,SoftwareX,1,Raphaël Hebert
+10.1016/j.softx.2022.101038,SoftwareX,2,Emese Meglécz
+10.1016/j.softx.2022.101047,SoftwareX,1,Jorge M. Cruz-Duarte
+10.1016/j.softx.2022.101047,SoftwareX,2,José C. Ortiz-Bayliss
+10.1016/j.softx.2022.101047,SoftwareX,3,Ivan Amaya
+10.1016/j.softx.2022.101059,SoftwareX,1,Yash Soni
+10.1016/j.softx.2022.101059,SoftwareX,2,Terry Brett
+10.1016/j.softx.2022.101061,SoftwareX,1,Niccolò Pancino
+10.1016/j.softx.2022.101061,SoftwareX,2,Pietro Bongini
+10.1016/j.softx.2022.101061,SoftwareX,3,Franco Scarselli
+10.1016/j.softx.2022.101061,SoftwareX,4,Monica Bianchini
+10.1016/j.softx.2022.101081,SoftwareX,1,Maliheh Haghgoo
+10.1016/j.softx.2022.101081,SoftwareX,2,Ilya Sychev
+10.1016/j.softx.2022.101081,SoftwareX,3,Antonello Monti
+10.1016/j.softx.2022.101081,SoftwareX,4,Frank H.P. Fitzek
+10.1016/j.softx.2022.101093,SoftwareX,1,Tzvi Gershanik
+10.1016/j.softx.2022.101093,SoftwareX,2,Itay Levin
+10.1016/j.softx.2022.101093,SoftwareX,3,Daniel Rittel
+10.1016/j.softx.2022.101091,SoftwareX,1,Matheus Roman Carini
+10.1016/j.softx.2022.101091,SoftwareX,2,Marcelo Maia Rocha
+10.1016/j.softx.2022.101163,SoftwareX,1,Damian Frąszczak
+10.1016/j.softx.2022.101226,SoftwareX,1,Abdesadik Bendarag
+10.1016/j.softx.2022.101226,SoftwareX,2,Jamal Bakkas
+10.1016/j.softx.2022.101226,SoftwareX,3,Mohamed Hanine
+10.1016/j.softx.2022.101226,SoftwareX,4,Omar Boutkhoum
+10.1016/j.softx.2022.101270,SoftwareX,1,Marek Gagolewski
+10.1016/j.softx.2023.101385,SoftwareX,1,Filip Petrovič
+10.1016/j.softx.2023.101385,SoftwareX,2,Jiří Filipovič
+10.1016/j.softx.2023.101439,SoftwareX,1,Grace Skinner
+10.1016/j.softx.2023.101439,SoftwareX,2,Rob Cooke
+10.1016/j.softx.2023.101439,SoftwareX,3,Junghyuk Keum
+10.1016/j.softx.2023.101439,SoftwareX,4,Andy Purvis
+10.1016/j.softx.2023.101439,SoftwareX,5,Cristina Raw
+10.1016/j.softx.2023.101439,SoftwareX,6,Ben A. Woodcock
+10.1016/j.softx.2023.101439,SoftwareX,7,Joseph Millard
+10.1016/j.softx.2023.101455,SoftwareX,1,Tobias Weber
+10.1016/j.softx.2023.101552,SoftwareX,1,Pietro Cinaglia
+10.1016/j.softx.2023.101552,SoftwareX,2,Mario Cannataro
+10.1016/j.softx.2023.101562,SoftwareX,1,Dasol Lee
+10.1016/j.softx.2023.101562,SoftwareX,2,Seokgyu Kwon
+10.1016/j.softx.2023.101562,SoftwareX,3,Minkyung Kim
+10.1016/j.softx.2023.101597,SoftwareX,1,Nguyen Van Thieu
+10.1016/j.softx.2023.101597,SoftwareX,2,Diego Oliva
+10.1016/j.softx.2023.101597,SoftwareX,3,Marco Pérez-Cisneros
+10.1016/j.softx.2023.101628,SoftwareX,1,Daniel Aláez
+10.1016/j.softx.2023.101628,SoftwareX,2,Mikel Celaya-Echarri
+10.1016/j.softx.2023.101628,SoftwareX,3,Leyre Azpilicueta
+10.1016/j.softx.2023.101628,SoftwareX,4,Jesús Villadangos
+10.1016/j.softx.2024.101637,SoftwareX,1,Jarosław Bułat
+10.1016/j.softx.2024.101637,SoftwareX,2,Natalia Cieplińska
+10.1016/j.softx.2024.101637,SoftwareX,3,Rafał Figlus
+10.1016/j.softx.2024.101637,SoftwareX,4,Lucjan Janowski
+10.1016/j.softx.2024.101642,SoftwareX,1,Recep Durna
+10.1016/j.softx.2024.101642,SoftwareX,2,Alp Kağan Açan
+10.1016/j.softx.2024.101642,SoftwareX,3,Oğuz Ziya Tikenoğulları
+10.1016/j.softx.2024.101642,SoftwareX,4,Hüsnü Dal
+10.1016/j.softx.2024.101666,SoftwareX,1,Aurelio López-Fernández
+10.1016/j.softx.2024.101666,SoftwareX,2,Francisco A. Gómez-Vela
+10.1016/j.softx.2024.101666,SoftwareX,3,Jorge Gonzalez-Dominguez
+10.1016/j.softx.2024.101666,SoftwareX,4,Parameshachari Bidare-Divakarachari
+10.1016/j.softx.2024.101674,SoftwareX,1,Quentin Petitjean
+10.1016/j.softx.2024.101674,SoftwareX,2,Silène Lartigue
+10.1016/j.softx.2024.101674,SoftwareX,3,Mélina Cointe
+10.1016/j.softx.2024.101674,SoftwareX,4,Nicolas Ris
+10.1016/j.softx.2024.101674,SoftwareX,5,Vincent Calcagno
+10.1016/j.softx.2024.101733,SoftwareX,1,Jaime Céspedes Sisniega
+10.1016/j.softx.2024.101733,SoftwareX,2,Álvaro López García
+10.1016/j.softx.2024.101752,SoftwareX,1,David Martínez-Galicia
+10.1016/j.softx.2024.101752,SoftwareX,2,Alejandro Guerra-Hernández
+10.1016/j.softx.2024.101752,SoftwareX,3,Francisco Grimaldo
+10.1016/j.softx.2024.101752,SoftwareX,4,Nicandro Cruz-Ramírez
+10.1016/j.softx.2024.101752,SoftwareX,5,Xavier Limón
+10.1016/j.softx.2024.101783,SoftwareX,1,Fazliddin Makhmudov
+10.1016/j.softx.2024.101783,SoftwareX,2,Dusmurod Kilichev
+10.1016/j.softx.2024.101783,SoftwareX,3,Young Im Cho
+10.1016/j.softx.2024.101843,SoftwareX,1,Shu-Min Tan
+10.1016/j.softx.2024.101843,SoftwareX,2,Shih-Hsun Hung
+10.1016/j.softx.2024.101843,SoftwareX,3,Je-Chiang Tsai
+10.1016/j.softx.2024.101860,SoftwareX,1,Bálint Kaszás
+10.1016/j.softx.2024.101860,SoftwareX,2,Péter Nagy
+10.1016/j.softx.2024.101860,SoftwareX,3,Jenő Gubicza
+10.1016/j.softx.2024.101872,SoftwareX,1,Tajmir Khan
+10.1016/j.softx.2024.101872,SoftwareX,2,Umer Rashid
+10.1016/j.softx.2024.101872,SoftwareX,3,Abdur Rehman Khan
+10.1016/j.softx.2024.101872,SoftwareX,4,Naveed Ahmad
+10.1016/j.softx.2024.101872,SoftwareX,5,Mohammed Ali Alshara
+10.1016/j.softx.2024.101889,SoftwareX,1,Abderrahman Chekry
+10.1016/j.softx.2024.101889,SoftwareX,2,Jamal Bakkas
+10.1016/j.softx.2024.101889,SoftwareX,3,Mohamed Hanine
+10.1016/j.softx.2024.101889,SoftwareX,4,Elizabeth Caro Montero
+10.1016/j.softx.2024.101889,SoftwareX,5,Mirtha Silvana Garat de Marin
+10.1016/j.softx.2024.101889,SoftwareX,6,Imran Ashraf
+10.1016/j.softx.2024.101971,SoftwareX,1,Caio L. dos Santos
+10.1016/j.softx.2024.101971,SoftwareX,2,Fernando E. Miguez
+10.1016/j.softx.2024.101951,SoftwareX,1,Bei Zhou
+10.1016/j.softx.2024.101951,SoftwareX,2,Klas Markström
+10.1016/j.softx.2024.101951,SoftwareX,3,Søren Riis
+10.1016/j.softx.2024.101996,SoftwareX,1,Nafisa Anjum
+10.1016/j.softx.2024.101996,SoftwareX,2,Md. Mehedi Hasan
+10.1016/j.softx.2024.101996,SoftwareX,3,Syeda Umme Salma
+10.1016/j.softx.2024.101996,SoftwareX,4,Liang Zhao
+10.1016/j.softx.2024.101996,SoftwareX,5,Maria Valero de Clemente
+10.1016/j.softx.2024.101996,SoftwareX,6,Nazmus Sakib
+10.1016/j.softx.2025.102056,SoftwareX,1,Dai Nakai
+10.1016/j.softx.2025.102056,SoftwareX,2,Yohsuke Tanaka
+10.1016/j.softx.2025.102117,SoftwareX,1,Akshay Patil
+10.1016/j.softx.2025.102117,SoftwareX,2,Udhaya Chandiran Krishnan Paranjothi
+10.1016/j.softx.2025.102117,SoftwareX,3,Clara García-Sánchez
+10.1016/j.softx.2022.101228,SoftwareX,1,José C. Fernández-Alvarez
+10.1016/j.softx.2022.101228,SoftwareX,2,Albenis Pérez-Alarcón
+10.1016/j.softx.2022.101228,SoftwareX,3,Raquel Nieto
+10.1016/j.softx.2022.101228,SoftwareX,4,Luis Gimeno
+10.1016/j.softx.2025.102096,SoftwareX,1,Jesús Jover
+10.1016/j.softx.2025.102096,SoftwareX,2,Rafael Casado
+10.1016/j.softx.2025.102096,SoftwareX,3,Aurelio Bermúdez
+10.1016/j.softx.2025.102139,SoftwareX,1,Przemysław Klęsk
+10.1016/j.softx.2025.102141,SoftwareX,1,Juan Gómez-Romero
+10.1016/j.softx.2025.102141,SoftwareX,2,Javier Cantón Correa
+10.1016/j.softx.2025.102141,SoftwareX,3,Rubén Pérez Mercado
+10.1016/j.softx.2025.102141,SoftwareX,4,Francisco Prados Abad
+10.1016/j.softx.2025.102141,SoftwareX,5,Miguel Molina-Solana
+10.1016/j.softx.2025.102141,SoftwareX,6,Waldo Fajardo
+10.1016/j.softx.2025.102164,SoftwareX,1,Kostas Florios
+10.1016/j.softx.2025.102164,SoftwareX,2,Alexandros Louka
+10.1016/j.softx.2025.102164,SoftwareX,3,Yannis Bilias
+10.1016/j.softx.2025.102306,SoftwareX,1,Jorge Perianez-Pascual
+10.1016/j.softx.2025.102306,SoftwareX,2,Juan D. Gutiérrez
+10.1016/j.softx.2025.102306,SoftwareX,3,Emilio Delgado
+10.1016/j.softx.2025.102306,SoftwareX,4,Fernando Sánchez-Figueroa
+10.1016/j.softx.2025.102306,SoftwareX,5,Roberto Rodriguez-Echeverria
+10.1016/j.softx.2025.102328,SoftwareX,1,Yan Li
+10.1016/j.softx.2025.102328,SoftwareX,2,Hao Qiu
+10.1016/j.softx.2025.102328,SoftwareX,3,Xu Wang
+10.1016/j.softx.2025.102328,SoftwareX,4,Na Dong
+10.1016/j.softx.2025.102328,SoftwareX,5,Xinghua Yu
+10.1016/j.softx.2025.102342,SoftwareX,1,Viola Rädle
+10.1016/j.softx.2025.102342,SoftwareX,2,Tilman Hartwig
+10.1016/j.softx.2025.102342,SoftwareX,3,Benjamin Oesen
+10.1016/j.softx.2025.102342,SoftwareX,4,Emily Alice Kröger
+10.1016/j.softx.2025.102342,SoftwareX,5,Julius Vogt
+10.1016/j.softx.2025.102342,SoftwareX,6,Eike Gericke
+10.1016/j.softx.2025.102342,SoftwareX,7,Martin Baron
+10.1016/j.softx.2025.102351,SoftwareX,1,Piotr Skotnicki
+10.1016/j.softx.2025.102389,SoftwareX,1,Zhaoyan Li
+10.1016/j.softx.2025.102389,SoftwareX,2,Sheng Zhang
+10.1016/j.softx.2025.102389,SoftwareX,3,Xiaoming Yuan
+10.1016/j.softx.2025.102389,SoftwareX,4,Mingyu Geng
+10.1016/j.softx.2025.102374,SoftwareX,1,Tobias Schneider
+10.1016/j.softx.2025.102374,SoftwareX,2,Isla S. Castañeda
+10.1016/j.softx.2025.102401,SoftwareX,1,Gorka Urbikain-Pelayo
+10.1016/j.softx.2025.102401,SoftwareX,2,Daniel Olvera-Trejo
+10.1016/j.softx.2025.102401,SoftwareX,3,Luis Norberto López de Lacalle
+10.1016/j.softx.2025.102401,SoftwareX,4,Alex Elías-Zúñiga
+10.1016/j.softx.2025.102415,SoftwareX,1,Grzegorz Stępień
+10.1016/j.softx.2025.102415,SoftwareX,2,Karol Kabała
+10.1016/j.softx.2025.102415,SoftwareX,3,Jakub Śledziowski
+10.1016/j.softx.2025.102423,SoftwareX,1,Samir Abdel-Rahman
+10.1016/j.softx.2025.102423,SoftwareX,2,Pavel Antiperovitch
+10.1016/j.softx.2025.102423,SoftwareX,3,Anthony Tang
+10.1016/j.softx.2025.102423,SoftwareX,4,Vijay Parsa
+10.1016/j.softx.2025.102423,SoftwareX,5,James C. Lacefield
+10.1016/j.softx.2025.102483,SoftwareX,1,Antoine Soetewey
+10.1016/j.softx.2025.102483,SoftwareX,2,Cédric Heuchenne
+10.1016/j.softx.2025.102483,SoftwareX,3,Arnaud Claes
+10.1016/j.softx.2025.102483,SoftwareX,4,Antonin Descampe
+10.1016/j.softx.2026.102519,SoftwareX,1,Changbeom Shim
+10.1016/j.softx.2026.102519,SoftwareX,2,Jangwon Gim
+10.1016/j.softx.2026.102519,SoftwareX,3,Yeeun Kim
+10.1016/j.softx.2026.102519,SoftwareX,4,Yeonghun Chae
+10.1016/j.softx.2026.102579,SoftwareX,1,Pamela Lattanzi
+10.1016/j.softx.2026.102579,SoftwareX,2,Claudio Vasapollo
+10.1016/j.softx.2026.102579,SoftwareX,3,Joao Samarão
+10.1016/j.softx.2026.102579,SoftwareX,4,Alessandro Galdelli
+10.1016/j.softx.2026.102579,SoftwareX,5,Tania Mendo
+10.1016/j.softx.2026.102579,SoftwareX,6,Marta Rufino
+10.1016/j.softx.2026.102579,SoftwareX,7,Luca Bolognini
+10.1016/j.softx.2026.102579,SoftwareX,8,Anna Nora Tassetti
+10.1016/j.softx.2026.102584,SoftwareX,1,Ramiz Gindullin
+10.1016/j.softx.2026.102584,SoftwareX,2,María Andreína Francisco Rodríguez
+10.1016/j.softx.2026.102628,SoftwareX,1,Atharva S. Kashyap
+10.1016/j.softx.2026.102628,SoftwareX,2,Patrícia Alves-Oliveira
+10.1016/j.softx.2026.102695,SoftwareX,1,Seoleun Shin
+10.1016/j.softx.2026.102695,SoftwareX,2,Ji Youn Lee

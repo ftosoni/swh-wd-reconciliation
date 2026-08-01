@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "purpose": "Human-readable spec of the OpenRefine->Wikidata schema for the venue import (article + software items). Mirrors the SoftwareX schema actually uploaded, plus the refinements adopted for the remaining venues. The authoritative OpenRefine Wikibase schema JSON was exported by the user; this file is the readable map so a session does not have to reconstruct it.",
+    "reflects_venue": "SoftwareX (proven). See venue_overrides for what changes per venue.",
+    "two_items_per_row": "Each import/checked/<venue>.csv row yields one article item (subject col art_item) and one software item (subject col sw_item).",
+    "read_only": "The assistant never writes to Wikidata. The user runs every upload via OpenRefine's own uploader (NOT QuickStatements: QS cannot create two new items that reference each other).",
+    "two_pass_upload": "Pass 1 = everything EXCEPT the cross-refs marked \"pass\": 2 (P921 on the article, P1343 on the software). A clean Pass 1 makes OpenRefine write the new QIDs back into the subject cells. Pass 2 = re-add only the \"pass\": 2 statements and upload (now existing->existing).",
+    "authors": "Separate later pass, not in this schema. See build_author_import.py / HANDOFF."
+  },
+
+  "fixed_values": {
+    "retrieved_P813": "+2026-06-18",
+    "stated_in_crossref_P248": "Q5188229",
+    "stated_in_github_P248": "Q364",
+    "stated_in_software_heritage_P248": "Q28127082",
+    "language_english": "Q1860",
+    "class_software": "Q7397",
+    "class_academic_journal_article": "Q18918145",
+    "class_scholarly_article_superclass": "Q13442814",
+    "class_conference_paper_SIGMOD_only": "Q23927052",
+    "vcs_git_value": "Q186055",
+    "web_interface_github_value": "Q364",
+    "venue_softwarex_P1433": "Q50811898"
+  },
+
+  "reference_blocks": {
+    "crossref": {
+      "_use": "on every article statement (bibliographic provenance)",
+      "P248_stated_in": "Q5188229",
+      "P356_DOI": {"column": "article_doi"},
+      "P854_reference_url": {"column": "crossref_ref_url"},
+      "P813_retrieved": "+2026-06-18"
+    },
+    "repo_host": {
+      "_use": "on software P1324 and P31 (where the paper<->repo link was found)",
+      "P248_stated_in": "Q364 (GitHub, SoftwareX). VENUE-SPECIFIC: reconcile from repo_stated_in for other venues",
+      "P854_reference_url": {"column": "repo_ref_url_P854"},
+      "P813_retrieved": "+2026-06-18"
+    },
+    "software_heritage": {
+      "_use": "on software P6138 (SWHID provenance); no P854, the SWHID is its own locator",
+      "P248_stated_in": "Q28127082",
+      "P813_retrieved": "+2026-06-18"
+    }
+  },
+
+  "article_entity": {
+    "subject": {"column": "art_item", "meaning": "existing QID, or NEW -> create a new item"},
+    "terms": {
+      "label": {"lang": "en", "column": "article_title", "override_if_present": false},
+      "description": {"lang": "en", "fixed": "academic journal article published in <VENUE>", "override_if_present": false,
+                      "_note": "SoftwareX text was 'scientific article published in SoftwareX'. Keep short; keeps label+description unique since titles are unique."}
+    },
+    "statements": [
+      {"property": "P31", "label": "instance of", "value": {"fixed": "Q18918145"}, "reference": "crossref", "apply_to": "article_status == new"},
+      {"property": "P356", "label": "DOI", "value": {"column": "article_doi", "transform": "UPPERCASE (GREL value.toUppercase())"}, "reference": "crossref", "apply_to": "article_status == new"},
+      {"property": "P1476", "label": "title", "value": {"column": "article_title", "lang": "en"}, "reference": "crossref", "apply_to": "article_status == new"},
+      {"property": "P1433", "label": "published in", "value": {"fixed": "Q50811898"}, "reference": "crossref", "apply_to": "article_status == new"},
+      {"property": "P577", "label": "publication date", "value": {"column": "publication_date_P577"}, "reference": "crossref", "apply_to": "article_status == new"},
+      {"property": "P407", "label": "language of work", "value": {"fixed": "Q1860"}, "reference": "crossref", "apply_to": "article_status == new"},
+      {"property": "P921", "label": "main subject", "value": {"column": "sw_item"}, "reference": "crossref", "apply_to": "all", "pass": 2,
+       "_note": "the cross-link article->software. Existing articles get ONLY this."}
+    ],
+    "dropped": {"P123_publisher": "redundant with the venue's own publisher", "authors": "separate pass"}
+  },
+
+  "software_entity": {
+    "subject": {"column": "sw_item", "meaning": "existing QID, or NEW -> create a new item"},
+    "terms": {
+      "label": {"lang": "en", "column": "software_label", "term_type": "LABEL_IF_NEW",
+                "_note": "software_label = software_label_from_repo with fallback to *_from_title (never empty; prep_openrefine.py). JOSS was uploaded from the raw software_label_from_repo, so its 23 repo-less rows got no label -- deferred cleanup."},
+      "alias": {"lang": "en", "column": "software_alias",
+                "_note": "software_alias = title-derived name ONLY when it differs from the label, else blank (prep_openrefine.py); a blank cell emits no alias. Never emit an alias equal to the label. JOSS was uploaded before this, so ~2073 JOSS items carry a redundant alias == label -- harmless, deferred."},
+      "description": {"lang": "en", "column": "software_desc",
+                      "_note": "software_desc = 'software described in <VENUE>' + ' (owner/repo)' for labels shared by >1 distinct repo, to keep label+description unique (prep_openrefine.py)."}
+    },
+    "statements": [
+      {"property": "P31", "label": "instance of", "value": {"fixed": "Q7397"}, "reference": "repo_host", "apply_to": "all",
+       "_note": "GitHub reference kept deliberately: being on the host is itself evidence it is software."},
+      {"property": "P1324", "label": "source code repository URL", "value": {"column": "repo_url_P1324"},
+       "qualifiers": [
+         {"property": "P8423", "label": "version control system", "value": {"fixed": "Q186055"}, "_note": "Git; valid for every host in the corpus"},
+         {"property": "P10627", "label": "web interface software", "value": {"fixed": "Q364 (SoftwareX, all github.com)", "column": "web_interface_qid (JOSS+, multi-host)"}, "_note": "GitHub for SoftwareX. For multi-host venues (JOSS) use the data-driven column web_interface_qid built by prep_openrefine.py (GitHub Q364 / GitLab Q16639197 / Bitbucket Q2493781 / Codeberg Q106102182 / SourceForge Q165400); reconcile it via Use values as identifiers."}
+       ],
+       "reference": "repo_host", "apply_to": "all",
+       "_qualifier_note": "P8423=Git is fixed (valid for all hosts). P10627 was fixed Q364 for SoftwareX (all github.com); for a mixed-host venue it is the web_interface_qid column instead."},
+      {"property": "P6138", "label": "Software Heritage ID", "value": {"column": "swhid_P6138", "form": "full qualified SWHID, as-is"}, "reference": "software_heritage", "apply_to": "all"},
+      {"property": "P1343", "label": "described by source", "value": {"column": "art_item"}, "reference": null, "apply_to": "all", "pass": 2,
+       "_note": "the cross-link software->article."}
+    ]
+  },
+
+  "venue_overrides": {
+    "P1433_published_in": "SoftwareX = Q50811898. For JOSS/JORS/IPOL/SIGMOD use that venue's own journal/proceedings QID (reconcile the venue_name_P1433 value).",
+    "description_text": "substitute the venue name in both description strings.",
+    "P31_article_class": "academic journal article Q18918145 for the journals (JOSS, SoftwareX, JORS, IPOL). SIGMOD papers are conference papers -> Q23927052.",
+    "P1324_qualifiers": "Git/GitHub fixed qualifiers valid only if every repo of the venue is on github.com. Verify host mix per venue before reusing them.",
+    "repo_host_reference": "P248 and P854 of the repo_host block are venue-specific: SoftwareX = GitHub + Elsevier mirror URL. JOSS = Journal of Open Source Software API + joss paper json (carried by columns repo_stated_in / repo_ref_url_P854).",
+    "IPOL": "software nodes have NO P1324 (SWHID only) and empty labels -> no P1324 statement, no repo_host reference/qualifiers, label must be entered manually. Do IPOL last."
+  },
+
+  "csv_columns_used": [
+    "art_item", "sw_item",
+    "article_doi", "article_title", "publication_date_P577", "crossref_ref_url",
+    "repo_url_P1324", "swhid_P6138", "software_label_from_repo", "software_label_from_title",
+    "repo_ref_url_P854", "repo_stated_in", "venue_name_P1433",
+    "article_status", "software_status"
+  ]
+}

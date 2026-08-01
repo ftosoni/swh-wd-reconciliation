@@ -1,0 +1,6 @@
+# Third-party dependencies for the swh-wd-reconciliation pipeline.
+# Everything else used by the scripts is in the Python standard library.
+requests
+beautifulsoup4
+pypdf
+anthropic        # only for validate_sigmod_llm.py (optional SIGMOD LLM cross-check)

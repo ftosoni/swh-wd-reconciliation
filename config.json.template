@@ -1,0 +1,6 @@
+{
+    "user_agent": "YourUserAgent/1.0 (+mailto:your@email.com)",
+    "swh_token": "YOUR_SWH_API_TOKEN",
+    "github_token": "YOUR_GITHUB_TOKEN",
+    "visit_type": "git"
+}

@@ -1,0 +1,75 @@
+{
+  "entityEdits": [
+    {
+      "type": "wbitemeditexpr",
+      "subject": {
+        "type": "wbentityvariable",
+        "columnName": "sw_item"
+      },
+      "nameDescs": [],
+      "statementGroups": [
+        {
+          "property": {
+            "type": "wbpropconstant",
+            "pid": "P6138",
+            "label": "Software Heritage ID",
+            "datatype": "external-id"
+          },
+          "statements": [
+            {
+              "value": {
+                "type": "wbstringvariable",
+                "columnName": "swhid_P6138"
+              },
+              "qualifiers": [],
+              "references": [
+                {
+                  "snaks": [
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P248",
+                        "label": "stated in",
+                        "datatype": "wikibase-item"
+                      },
+                      "value": {
+                        "type": "wbentityidvalueconstant",
+                        "id": "Q28127082",
+                        "label": "Software Heritage"
+                      }
+                    },
+                    {
+                      "prop": {
+                        "type": "wbpropconstant",
+                        "pid": "P813",
+                        "label": "retrieved",
+                        "datatype": "time"
+                      },
+                      "value": {
+                        "type": "wbdateconstant",
+                        "value": "2026-06-18"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "mergingStrategy": {
+                "type": "snak",
+                "valueMatcher": {
+                  "type": "lax"
+                }
+              },
+              "mode": "add_or_merge"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "siteIri": "http://www.wikidata.org/entity/",
+  "entityTypeSiteIRI": {
+    "item": "http://www.wikidata.org/entity/",
+    "property": "http://www.wikidata.org/entity/"
+  },
+  "mediaWikiApiEndpoint": "https://www.wikidata.org/w/api.php"
+}
