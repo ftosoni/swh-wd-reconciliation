@@ -5,6 +5,17 @@ pipeline in `scripts/` only generates candidate batches; every batch listed here
 was inspected and then run manually by the author under the Wikidata account
 `Francesco Tosoni (SSSA)`.
 
+All batches are browsable on EditGroups at
+<https://editgroups.toolforge.org/?user=Francesco%20Tosoni%20(SSSA)>. The batches of
+this project are the ones run between **30 July and 1 August 2026**; later batches
+by the same account are unrelated to this import.
+
+Live checks on the Wikidata Query Service (read-only):
+
+- items with a source code repository (`P1324`), and how many also carry a DOI or a
+  SWHID: <https://w.wiki/Ujct>
+- the running example of the paper (`libcommute` / `pycommute`): <https://w.wiki/UjdF>
+
 ## `batches.csv`
 
 One row per upload batch attributable to this project (SoftwareX, JOSS, IPOL,
