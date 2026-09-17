@@ -81,6 +81,7 @@ URL/DOI, retrieval date) and is emitted in QuickStatements v2 for human review.
 scripts/   primary pipeline code (one file per stage; see table above)
 schemas/   OpenRefine/Wikibase schema specifications per venue (the ontology mapping)
 data/      the released harvested corpus (see data/README.md)
+wikidata-import/   Wikidata upload batches (EditGroups index) and QuickStatements run reports
 config.json.template   copy to config.json and fill in your own tokens
 requirements.txt       third-party dependencies
 LICENSE                BSD 3-Clause

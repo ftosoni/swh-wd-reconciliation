@@ -1,0 +1,25 @@
+venue,tool,batch_id,started_utc,ended_utc,edits,new_items,summary,editgroups_url,run_report
+SoftwareX,OpenRefine,6bef956c6cc,2026-07-30T19:08:03Z,2026-07-30T19:08:04Z,3,3,importing some SoftwareX data,https://editgroups.toolforge.org/b/OR/6bef956c6cc/,
+SoftwareX,OpenRefine,195949e4552,2026-07-31T09:40:45Z,2026-07-31T10:05:14Z,966,750,uploading SoftwareX data,https://editgroups.toolforge.org/b/OR/195949e4552/,
+SoftwareX,OpenRefine,c8dd63bb829,2026-07-31T10:50:13Z,2026-07-31T10:50:13Z,1,0,adding cross-reference for SoftwareX,https://editgroups.toolforge.org/b/OR/c8dd63bb829/,
+SoftwareX,OpenRefine,8c7468085d7,2026-07-31T11:18:02Z,2026-07-31T11:34:17Z,964,0,adding cross-reference for SoftwareX,https://editgroups.toolforge.org/b/OR/8c7468085d7/,
+SoftwareX,OpenRefine,79f19645033,2026-07-31T12:07:21Z,2026-07-31T12:11:55Z,274,0,adding author strings for SoftwareX,https://editgroups.toolforge.org/b/OR/79f19645033/,
+JOSS,OpenRefine,9339471a297,2026-07-31T14:33:40Z,2026-07-31T17:23:47Z,3441,3441,importing JOSS software,https://editgroups.toolforge.org/b/OR/9339471a297/,
+JOSS,QuickStatements 3.0,44660,2026-07-31T17:29:37Z,2026-07-31T17:30:16Z,72,0,adding SWHID to JOSS software,https://editgroups.toolforge.org/b/QSv3/44660/,
+JOSS,OpenRefine,ccb85ff78d1,2026-07-31T17:42:33Z,2026-07-31T17:42:34Z,3,3,import JOSS software,https://editgroups.toolforge.org/b/OR/ccb85ff78d1/,
+JOSS,QuickStatements 3.0,44684,2026-07-31T18:15:44Z,2026-07-31T18:37:29Z,1854,1854,import JOSS articles,https://editgroups.toolforge.org/b/QSv3/44684/,
+JOSS,OpenRefine,cdf322ef063,2026-07-31T18:47:40Z,2026-07-31T18:47:42Z,4,4,import JOSS software,https://editgroups.toolforge.org/b/OR/cdf322ef063/,
+JOSS,QuickStatements 3.0,44697,2026-07-31T18:54:09Z,2026-07-31T19:14:17Z,1687,0,adding cross-reference for JOSS article→software,https://editgroups.toolforge.org/b/QSv3/44697/,
+JOSS,QuickStatements 3.0,44708,2026-07-31T19:23:16Z,2026-07-31T20:05:55Z,3522,0,adding cross-reference for JOSS software→article,https://editgroups.toolforge.org/b/QSv3/44708/,
+JOSS,QuickStatements 3.0,44724,2026-07-31T20:08:00Z,2026-07-31T20:29:22Z,1854,0,adding author strings to JOSS articles,https://editgroups.toolforge.org/b/QSv3/44724/,
+IPOL,OpenRefine,1fd1904793b,2026-07-31T22:53:55Z,2026-07-31T22:56:50Z,177,177,upload IPOL software,https://editgroups.toolforge.org/b/OR/1fd1904793b/,
+IPOL,QuickStatements 3.0,44740,2026-07-31T23:26:21Z,2026-07-31T23:28:05Z,151,151,upload IPOL articles,https://editgroups.toolforge.org/b/QSv3/44740/,qs-reports/batch-44740-report.csv
+IPOL,QuickStatements 3.0,44742,2026-07-31T23:48:54Z,2026-07-31T23:50:23Z,153,0,upload IPOL articles (pass 2),https://editgroups.toolforge.org/b/QSv3/44742/,qs-reports/batch-44742-report.csv
+IPOL,QuickStatements 3.0,44743,2026-07-31T23:51:18Z,2026-07-31T23:51:38Z,52,0,add cross-references IPOL,https://editgroups.toolforge.org/b/QSv3/44743/,qs-reports/batch-44743-report.csv
+IPOL,QuickStatements 3.0,44744,2026-07-31T23:55:14Z,2026-07-31T23:56:57Z,151,0,upload IPOL author strings,https://editgroups.toolforge.org/b/QSv3/44744/,qs-reports/batch-44744-report.csv
+SIGMOD,QuickStatements 3.0,44745,2026-08-01T00:26:02Z,2026-08-01T00:26:30Z,78,78,upload SIGMOD software,https://editgroups.toolforge.org/b/QSv3/44745/,qs-reports/batch-44745-report.csv
+SIGMOD,QuickStatements 3.0,44746,2026-08-01T00:29:40Z,2026-08-01T00:31:00Z,109,47,upload SIGMOD articles,https://editgroups.toolforge.org/b/QSv3/44746/,qs-reports/batch-44746-report.csv
+SIGMOD,QuickStatements 3.0,44747,2026-08-01T00:33:29Z,2026-08-01T00:33:47Z,47,0,add cross-reference for SIGMOD,https://editgroups.toolforge.org/b/QSv3/44747/,qs-reports/batch-44747-report.csv
+SIGMOD,QuickStatements 3.0,44748,2026-08-01T00:34:30Z,2026-08-01T00:34:55Z,47,0,add SIGMOD author strings,https://editgroups.toolforge.org/b/QSv3/44748/,qs-reports/batch-44748-report.csv
+SoftwareX,QuickStatements 3.0,44920,2026-08-01T23:37:05Z,2026-08-01T23:38:52Z,173,0,removing redundant lower-case DOI for SoftwareX,https://editgroups.toolforge.org/b/QSv3/44920/,qs-reports/batch-44920-report.csv
+SoftwareX,QuickStatements 3.0,44921,2026-08-01T23:47:45Z,2026-08-01T23:50:18Z,240,0,capitalising DOI for new SoftwareX articles,https://editgroups.toolforge.org/b/QSv3/44921/,
